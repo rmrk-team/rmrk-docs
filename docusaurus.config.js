@@ -6,26 +6,27 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
+
   favicon: "img/favicon.ico",
   organizationName: "rmrk-team", // Usually your GitHub org/user name.
   projectName: "rmrk-docs", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "RMRK Docs",
+      title: "RMRK",
       logo: {
         alt: "RMRK logo",
         src: "img/tg_main.png",
+        href: "https://rmrk.app",
       },
       items: [
         {
-          to: "docs/",
-          activeBasePath: "docs",
+          to: "/getting-started",
+          activeBasePath: "/",
           label: "Docs",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/rmrk-team/rmrk-docs",
           label: "GitHub",
           position: "right",
         },
@@ -35,11 +36,11 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Web",
           items: [
             {
-              label: "Begin",
-              to: "docs/",
+              label: "RMRK.app web",
+              href: "https://rmrk.app",
             },
           ],
         },
@@ -47,34 +48,46 @@ module.exports = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Telegram",
+              href: "https://t.me/rmrkapp",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Telegram (implementers chat)",
+              href: "https://t.me/rmrkimpl",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/rmrkapp",
+            },
+            {
+              label: "Newsletter",
+              href: "https://news.nft.review",
             },
           ],
         },
         {
-          title: "More",
+          title: "Github",
           items: [
             {
-              label: "Blog",
-              to: "blog",
+              label: "Specs GitHub",
+              href: "https://github.com/rmrk-team/rmrk-specs",
             },
             {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              label: "Docs GitHub",
+              href: "https://github.com/rmrk-team/rmrk-docs",
+            },
+            {
+              label: "Tools GitHub",
+              href: "https://github.com/rmrk-team/rmrk-tools",
+            },
+            {
+              label: "RMRK.app Web GitHub",
+              href: "https://github.com/rmrk-team/rmrk-web",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} RMRK Team.`,
     },
   },
   presets: [
@@ -85,13 +98,8 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
+            "https://github.com/rmrk-team/rmrk-docs/edit/master/website/",
+          routeBasePath: "/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
