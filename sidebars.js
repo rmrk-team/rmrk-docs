@@ -1,16 +1,19 @@
 module.exports = {
   docs: [
     {
-      type: 'category',
-      label: 'Docusaurus Tutorial',
-      items: [
-        'getting-started',
-        'create-a-page',
-        'create-a-document',
-        'create-a-blog-post',
-        'markdown-features',
-        'thank-you',
-      ],
+      type: "category",
+      label: "RMRK Documentation",
+      items: ["getting-started"],
+    },
+    {
+      type: "category",
+      label: "RMRK NFTs",
+      items: ["nfts"],
+    },
+    {
+      type: "category",
+      label: "RMRK Polls",
+      items: ["polls"],
     },
   ],
 };
