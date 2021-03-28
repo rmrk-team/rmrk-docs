@@ -52,8 +52,8 @@ If you want to launch a platform like an NFT fundraiser or a Poll, please [get i
 
 ### Official
 
-- [RMRK NFT App](https://rmrk.app/app): Official front-end for minting, showing, and trading NFTs.
-- [Crypto Canaries](https://rmrk.app): Collectible NFT eggs that hatch special birds depending on randomness and people's reactions to the NFTs.
+- RMRK NFT App (coming soon): Official front-end for minting, showing, and trading NFTs.
+- [Kanaria](https://kanaria.rmrk.app): Collectible NFT eggs that hatch special birds depending on randomness and people's reactions to the NFTs.
 
 ### Third-party
 
