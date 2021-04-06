@@ -42,7 +42,7 @@ ALICE::Send::Apple::10::Alice
 
 ## How do I use RMRK?
 
-As a user, you probably want to hit the [RMRK App](https://app.rmrk.app).
+An official UI is coming in a few days.
 
 As a developer who wants to build their own wallet or UI for RMRK, you probably want to refer to the [Specs](https://github.com/rmrk-team/rmrk-spec), or if you'd like to use existing components we've built, the [Tools](https://github.com/rmrk-team/rmrk-tools).
 
@@ -52,8 +52,8 @@ If you want to launch a platform like an NFT fundraiser or a Poll, please [get i
 
 ### Official
 
-- [RMRK NFT App](https://rmrk.app/app): Official front-end for minting, showing, and trading NFTs.
-- [Kanaria: Kusama Canaries](https://kanaria.rmrk.app): Collectible NFT eggs that hatch special birds depending on randomness and people's reactions to the NFTs.
+- RMRK NFT App (coming soon): Official front-end for minting, showing, and trading NFTs.
+- [Kanaria](https://kanaria.rmrk.app): Collectible NFT eggs that hatch special birds depending on randomness and people's reactions to the NFTs.
 
 ### Third-party
 
