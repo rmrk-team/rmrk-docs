@@ -53,10 +53,16 @@ If you want to launch a platform like an NFT fundraiser or a Poll, please [get i
 ### Official
 
 - [RMRK NFT App](https://rmrk.app/app): Official front-end for minting, showing, and trading NFTs.
-- [Crypto Canaries](https://rmrk.app): Collectible NFT eggs that hatch special birds depending on randomness and people's reactions to the NFTs.
+- [Kanaria: Kusama Canaries](https://kanaria.rmrk.app): Collectible NFT eggs that hatch special birds depending on randomness and people's reactions to the NFTs.
 
 ### Third-party
 
-- [Kodadot](https://kodadot.xyz): Front-end for minting, showing, and trading NFTs.
+- [KSMGallery](http://ksmgallery.crystalsuite.com/mainUI/) by Everdreamsoft
+
+### Non-compliant
+
+There UIs use RMRK partially, but are not compliant and are possibly dangerous to your funds. They should not be used.
+
+- [Kodadot](https://kodadot.xyz)
 
 Built something? Let us know or send a PR via the Edit button on this page!
