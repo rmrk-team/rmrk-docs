@@ -70,7 +70,7 @@ module.exports = {
           items: [
             {
               label: "Specs GitHub",
-              href: "https://github.com/rmrk-team/rmrk-specs",
+              href: "https://github.com/rmrk-team/rmrk-spec",
             },
             {
               label: "Docs GitHub",
