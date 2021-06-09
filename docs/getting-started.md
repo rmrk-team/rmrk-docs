@@ -57,12 +57,7 @@ If you want to launch a platform like an NFT fundraiser or a Poll, please [get i
 
 ### Third-party
 
-- [KSMGallery](http://ksmgallery.crystalsuite.com/mainUI/) by Everdreamsoft
-
-### Non-compliant
-
-There UIs use RMRK partially, but are not compliant and are possibly dangerous to your funds. They should not be used.
-
 - [Kodadot](https://kodadot.xyz)
+- [KSMGallery](http://ksmgallery.crystalsuite.com/mainUI/) by Everdreamsoft
 
 Built something? Let us know or send a PR via the Edit button on this page!
