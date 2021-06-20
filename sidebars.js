@@ -8,7 +8,7 @@ module.exports = {
     {
       type: "category",
       label: "RMRK Tools",
-      items: ["tools-docs"],
+      items: ["tools-docs", "tools-cli"],
     },
     {
       type: "category",
