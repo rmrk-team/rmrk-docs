@@ -117,4 +117,4 @@ Visit the original rmrk-tools for more info on [Seed](https://github.com/rmrk-te
 
 `// TODO`
 
-Visit the original rmrk-tools for more info on [Generating Metadata](https://github.com/rmrk-team/rmrk-tools#generate-metadata).e
+Visit the original rmrk-tools for more info on [Generating Metadata](https://github.com/rmrk-team/rmrk-tools#generate-metadata).
