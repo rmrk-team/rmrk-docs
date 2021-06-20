@@ -41,7 +41,7 @@ If you want to test your UI with the latest data dump from Singular: [💩💩�
 
 ### Starting up your local node
 
-Run the following code in terminal from your the root of your substrate-node-template directory: `./target/release/node-template --dev --tmp`
+Run the following code in terminal from the root of your substrate-node-template directory: `./target/release/node-template --dev --tmp`
 
 ### Install tools on frontend
 
