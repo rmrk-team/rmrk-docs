@@ -73,7 +73,7 @@ export const NftCollection: React.FC = () => {
 
 ### Methods and interfaces used
 
-- [getlatestfinalizedblock](https://github.com/rmrk-team/rmrk-tools#getlatestfinalizedblock)
+- [getLatestFinalizedBlock](https://github.com/rmrk-team/rmrk-tools#getlatestfinalizedblock)
 - [getRemarksFromBlocks](https://github.com/rmrk-team/rmrk-tools#getremarksfromblocks)
 - [Consolidator.consolidate](https://github.com/rmrk-team/rmrk-tools#consolidator)
 - [ConsolidatorReturnType](https://github.com/rmrk-team/rmrk-tools/blob/f9324e4dffd677eb0d35c8c7cbc4a6211287e776/src/tools/consolidator/consolidator.ts#L36)
