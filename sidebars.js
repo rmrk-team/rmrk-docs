@@ -7,6 +7,11 @@ module.exports = {
     },
     {
       type: "category",
+      label: "RMRK Tools",
+      items: ["tools-docs", "tools-cli"],
+    },
+    {
+      type: "category",
       label: "RMRK NFTs",
       items: ["nfts"],
     },

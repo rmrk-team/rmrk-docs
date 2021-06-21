@@ -44,7 +44,7 @@ ALICE::Send::Apple::10::Alice
 
 An official UI is coming in a few days.
 
-As a developer who wants to build their own wallet or UI for RMRK, you probably want to refer to the [Specs](https://github.com/rmrk-team/rmrk-spec), or if you'd like to use existing components we've built, the [Tools](https://github.com/rmrk-team/rmrk-tools).
+As a developer who wants to build their own wallet or UI for RMRK, you probably want to refer to the [Specs](https://github.com/rmrk-team/rmrk-spec), or if you'd like to use existing components we've built [RMRK Tools](tools-docs.md).
 
 If you want to launch a platform like an NFT fundraiser or a Poll, please [get in touch with the team](mailto:hello@rmrk.app) - we'll be launching open source starter kits soon but need testers sooner than that.
 
@@ -52,7 +52,7 @@ If you want to launch a platform like an NFT fundraiser or a Poll, please [get i
 
 ### Official
 
-- RMRK NFT App (coming soon): Official front-end for minting, showing, and trading NFTs.
+- [Singular](https://singular.rmrk.app): Official front-end for minting, showing, and trading NFTs.
 - [Kanaria](https://kanaria.rmrk.app): Collectible NFT eggs that hatch special birds depending on randomness and people's reactions to the NFTs.
 
 ### Third-party
