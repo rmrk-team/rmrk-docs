@@ -36,11 +36,23 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Web",
+          title: "Info",
           items: [
             {
               label: "RMRK.app web",
               href: "https://rmrk.app",
+            },
+            {
+              label: "Kanaria",
+              href: "https://kanaria.rmrk.app",
+            },
+            {
+              label: "Singular Marketplace",
+              href: "https://singular.rmrk.app",
+            },
+            {
+              label: "RMRK Tokens",
+              href: "https://singular.rmrk.app/tokens",
             },
           ],
         },
@@ -70,7 +82,7 @@ module.exports = {
           items: [
             {
               label: "Specs GitHub",
-              href: "https://github.com/rmrk-team/rmrk-specs",
+              href: "https://github.com/rmrk-team/rmrk-spec",
             },
             {
               label: "Docs GitHub",
@@ -79,10 +91,6 @@ module.exports = {
             {
               label: "Tools GitHub",
               href: "https://github.com/rmrk-team/rmrk-tools",
-            },
-            {
-              label: "RMRK.app Web GitHub",
-              href: "https://github.com/rmrk-team/rmrk-web",
             },
           ],
         },
@@ -97,8 +105,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/rmrk-team/rmrk-docs/edit/master/website/",
+          editUrl: "https://github.com/rmrk-team/rmrk-docs/edit/master/website/",
           routeBasePath: "/",
         },
         theme: {
