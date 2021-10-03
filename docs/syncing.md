@@ -123,4 +123,4 @@ The same commands from above can then be applied on any of the dumps.
 ## API
 
 The RMRK team also offers simple graphql and HTTPs APIs you can query for quick reading of balances
-of any account. Please [let us know](hack@rmrk.app) if you'd like to use these APIs.
+of any account. Please [let us know](mailto:hack@rmrk.app) if you'd like to use these APIs.
