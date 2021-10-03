@@ -60,6 +60,13 @@ Install RMRK tools. You need a modern version of NodeJS and Yarn. We recommend u
 yarn install rmrk-tools
 ```
 
+By default, RMRK Tools work with RMRK 2. If you're working with RMRK 1, switch the branch to
+`rmrk-one`:
+
+```bash
+git fetch && git branch rmrk-one
+```
+
 ### Fetch
 
 Then, run the fetch command on the node:
