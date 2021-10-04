@@ -103,7 +103,14 @@ Other commands to run:
   omitted. Otherwise, last block. `no` is useful for testing.
 - `--output`: name of the file into which to save the output. Overridden if `append` is used.
 
-### Consolidate
+### Download dumps
+
+You can also download both a dump from IPFS.
+
+- [RMRK 1 full dump](https://gateway.pinata.cloud/ipns/latestdump.rmrk.app) (updated every 15
+  minutes)
+
+## Consolidation
 
 Once you have a fetched set, you need to consolidate it.
 
@@ -111,14 +118,14 @@ Once you have a fetched set, you need to consolidate it.
 yarn cli:consolidate --json=dump.json  --ws=ws://localhost:9933
 ```
 
-## Download dumps
+There is also a regularly updated consolidated set available for download for both RMRK 1 and RMRK
+2:
 
-You can also download both a non-consolidated and a consolidated dump from IPFS. The dumps should be
-at most 15 minutes old.
-
-- link tbd
-
-The same commands from above can then be applied on any of the dumps.
+- [RMRK 1 consolidated dump](https://gateway.pinata.cloud/ipns/precon-mkt.rmrk.app) - ~400 MB, has
+  everything
+- [RMRK 1 consolidated dump lite](https://gateway.pinata.cloud/ipns/precon-lite.rmrk.link) - only
+  ~20 MB, removed burned NFTs and all their emotes
+- [RMRK 2 consolidated dump](https://gateway.pinata.cloud/ipns/precon-rmrk2.rmrk.link) - ~100 MB
 
 ## API
 
