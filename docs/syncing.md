@@ -107,8 +107,10 @@ Other commands to run:
 
 You can also download both a dump from IPFS.
 
-- [RMRK 1 full dump](https://gateway.pinata.cloud/ipns/latestdump.rmrk.app) (updated every 15
+- [RMRK 1 full dump](https://gateway.pinata.cloud/ipns/latestdump.rmrk.app) (updated every 15-20
   minutes)
+- [RMRK 2 full dump](https://gateway.pinata.cloud/ipns/latest-rmrk2.rmrk.link) (updated every 15-20
+  minutes)  
 
 ## Consolidation
 
