@@ -16,7 +16,7 @@ The RMRK NFT 2.0 Concepts are:
   - The ability for an NFT to have different client-side outputs depending on some on-chain or off-chain values
 - [NFTs as DAOs](lego5-dao)
   - The ability for NFTs to be fractionalized and community governed
-- [Non-transferable NFTs](nontranserable.md)
+- [Non-transferable NFTs](nontranserable)
   - The ability for NFTs to be bound to another NFT or to an account address
 
 Explore each on its own separate page.

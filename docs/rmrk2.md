@@ -17,7 +17,7 @@ The legos are:
 - [On-chain emotes](lego3-emote)
 - [Conditional Rendering](lego4-conditional-rendering)
 - [NFTs as DAOs](lego5-dao)
-- [Non-transferable NFTs](nontranserable.md)
+- [Non-transferable NFTs](nontranserable)
 
 With this power, we enable the construction of very rich and smart NFT projects without needing
 custom logic and smart contracts, dramatically expanding forward compatibility of the NFTs created
