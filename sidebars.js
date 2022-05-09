@@ -13,6 +13,7 @@ module.exports = {
         "lego4-conditional-rendering",
         "lego5-dao",
         "nontransferable",
+        "scarcity",
       ],
     },
     {
