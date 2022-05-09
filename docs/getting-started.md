@@ -16,11 +16,12 @@ RMRK is a set of NFT standards which compose several "NFT 2.0 lego" primitives. 
 together allows a user to create NFT systems of arbitrary complexity:
 
 - [Nested NFTs](lego1-nested)
-- [Equippable NFTs](lego2.5-equippable)
 - [Multi-resource NFTs](lego2-multi-resource)
+- [Equippable NFTs](lego2.5-equippable)
 - [On-chain emotes](lego3-emote)
 - [Conditional Rendering](lego4-conditional-rendering)
 - [NFTs as DAOs](lego5-dao)
+- [Non-transferable NFTs](nontranserable.md)
 
 The legos exist in three formats:
 
