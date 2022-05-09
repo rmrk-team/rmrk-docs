@@ -2,7 +2,7 @@
 title: Synchronization
 ---
 
-Because RMRK NFT's are currently logged alongside blocks, but do not change state of the chain, they
+Because RMRK NFTs are currently logged alongside blocks, but do not change state of the chain, they
 are not easy to fetch.
 
 If we have remarks like (paraphrased):
@@ -24,7 +24,7 @@ Thus, there are several ways to get up to date with RMRK state.
 ## Syncing from scratch
 
 While it's very useful to have a locally running Kusama node at all times for various development
-experiments, this process is not recommended unless you have a lot of time.
+experiments, this process is not recommended unless you have a lot of time and disk space.
 
 The full process is:
 
@@ -60,7 +60,7 @@ Install RMRK tools. You need a modern version of NodeJS and Yarn. We recommend u
 yarn install rmrk-tools
 ```
 
-By default, RMRK Tools work with RMRK 2. If you're working with RMRK 1, switch the branch to
+By default, RMRK Tools work with [RMRK 2](rmrk2.md). If you're working with [RMRK 1](rmrk1.md), switch the branch to
 `rmrk-one`:
 
 ```bash
@@ -72,11 +72,11 @@ git fetch && git branch rmrk-one
 Then, run the fetch command on the node:
 
 ```bash
-yarn cli:fetch --prefixes=0x726d726b,0x524d524b --ws=ws://localhost:9933
+yarn cli:fetch --prefixes=rmrk,RMRK --ws=ws://localhost:9933
 ```
 
 The output is a JSON file of remarks - any message found alongside chain blocks starting with the
-prefixes `0x726d726b,0x524d524b`, hex-encoded for `rmrk,RMRK`.
+prefixes `rmrk,RMRK`. You can also provide the value as hex data, e.g. `0x726d726b,0x524d524b`.
 
 If you have a previously fetched dump, you can use the `append` flag to just append to it and
 shorten the processing time. This is good for cronjobs.
@@ -105,12 +105,12 @@ Other commands to run:
 
 ### Download dumps
 
-You can also download both a dump from IPFS.
+You can also download both as a dump from IPFS.
 
 - [RMRK 1 full dump](https://gateway.pinata.cloud/ipns/latestdump.rmrk.app) (updated every 15-20
   minutes)
 - [RMRK 2 full dump](https://gateway.pinata.cloud/ipns/latest-rmrk2.rmrk.link) (updated every 15-20
-  minutes)  
+  minutes)
 
 ## Consolidation
 
@@ -132,4 +132,4 @@ There is also a regularly updated consolidated set available for download for bo
 ## API
 
 The RMRK team also offers simple graphql and HTTPs APIs you can query for quick reading of balances
-of any account. Please [let us know](mailto:hack@rmrk.app) if you'd like to use these APIs.
+of any account. Please [let us know](https://t.me/rmrkimpl) if you'd like to use these APIs.
