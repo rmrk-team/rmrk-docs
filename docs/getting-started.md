@@ -21,7 +21,7 @@ together allows a user to create NFT systems of arbitrary complexity:
 - [On-chain emotes](lego3-emote)
 - [Conditional Rendering](lego4-conditional-rendering)
 - [NFTs as DAOs](lego5-dao)
-- [Non-transferable NFTs](nontranserable)
+- [Non-transferable NFTs](nontransferable)
 
 The legos exist in three formats:
 
