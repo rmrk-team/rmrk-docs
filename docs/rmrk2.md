@@ -9,11 +9,20 @@ With RMRK 2 we introduce the concept of _NFT legos_: extremely simple primitive 
 standard that, when put together, can make an infinitely complex project which is still supported by
 any UI supporting the individual standards.
 
+The legos are:
+
+- [Nested NFTs](lego1-nested)
+- [Equippable NFTs](lego2.5-equippable)
+- [Multi-resource NFTs](lego2-multi-resource)
+- [On-chain emotes](lego3-emote)
+- [Conditional Rendering](lego4-conditional-rendering)
+- [NFTs as DAOs](lego5-dao)
+
 With this power, we enable the construction of very rich and smart NFT projects without needing
 custom logic and smart contracts, dramatically expanding forward compatibility of the NFTs created
-this way. Any additional complexity can be built around the NFTs using smart contracts.
+this way. 
 
 As an introduction, [this coding workshop](https://crowdcast.io/e/buidl) is a good foray into RMRK
 2.0 composability.
 
-Let's dive into the legos.
+Written tutorials on how to mint RMRK2 NFTs are coming soon.

@@ -1,8 +1,8 @@
 ---
-title: RMRK 1.0
+title: RMRK 1.0 (deprecated)
 ---
 
-RMRK 1.0 is based on the `system.remark` utility function of many [Substrate](https://substrate.dev)
+Because Kusama - where RMRK originated - has no smart contracts or programmability, RMRK 1.0 is based on the `system.remark` utility function of many [Substrate](https://substrate.dev)
 chains, [Kusama](https://kusama.network) included.
 
 Remarks are like notes, like graffiti on the blocks. The information is not stored in the chain's
@@ -13,20 +13,7 @@ records.
 By interpreting this data in a special way, tools can understand information in different ways than
 an outside observer might.
 
-Imagine walking around town and seeing a graffiti of an upside down devil on a garage. You might
-think "huh" or "vandals" and move on. But the gang "Inverse Devils" used this graffiti as an area
-tag to let other gangs know they shouldn't walk around here. The gangs have a special way of
-interpreting this graffiti that you're not familiar with.
-
-Or, put another way, kids in school are having an exam. As they fill out their answers, they happily
-tap their feet. Later, when the teacher is grading their work, he realizes they all somehow aced the
-test. What he doesn't know is that the kids in the class learned a special language of foot-tapping,
-and that the smartest one in the class has been telegraphing them answers via taps of her foot. They
-have a special way of interpreting the taps that others are not aware of.
-
-Kusama is a blockchain without smart contracts. We cannot write logic onto it, so we cannot do
-things NFTs. But we can put graffiti onto the chain's blocks, and we can write tools that know how
-to interpret these graffiti.
+As an analogy, a blockchain is a ship with each block being a shipping container. Inside it are transactions. Remarks do not put content into the containers, but graffiti the side of the container. The message still gets sent across but does not affect the content of the container. On arrival, a special language interpreter (the RMRK specification) is who interprets these graffiti to form a coherent picture of the state of NFTs.
 
 The **rules** for how to interpret this are called specifications or standards, and RMRK is one such
 set of rules. So, RMRK deals with applying rules to _remarks_, which is what we call blockchain
@@ -67,6 +54,6 @@ These rules are defined in the [RMRK Specification](https://github.com/rmrk-team
 humanized, clarified, codified, and exemplified in this documentation.
 
 In many ways, RMRK 1.0 is like any NFT standard you might be used to on Ethereum - a simple way to
-store references to multimedia. We augmented this with on-chain emotes, but did not go further.
+store references to multimedia. We augmented this with on-chain [emotes](lego3-emote.md).
 
-Let's see how to programmatically mint a RMRK 1.0 NFT.
+RMRK 1.0 has been deprecated since [RMRK 2](rmrk2.md) has been out. Old RMRK1 NFTs can be seen on the [legacy version of Singular](https://singular.rmrk.app).
