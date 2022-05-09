@@ -1,5 +1,5 @@
 ---
-title: "NFT 2.0 Lego 1: Nested NFTs"
+title: "Nested NFTs"
 ---
 
 The concept of _nested_ NFTs refers to NFTs being able to _own_ other NFTs.

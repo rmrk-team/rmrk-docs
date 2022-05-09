@@ -1,5 +1,5 @@
 ---
-title: "NFT 2.0 Lego 2: Multi-resource NFTs"
+title: "Multi-resource NFTs"
 ---
 
 A _resource_ is a type of output for an NFT: usually a media file. A resource can be an image, a

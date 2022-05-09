@@ -1,5 +1,5 @@
 ---
-title: "NFT 2.0 Lego 3: On-chain emotes"
+title: "On-chain emotes"
 ---
 
 RMRK supports the ability to "react" to any NFT.

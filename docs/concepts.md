@@ -18,5 +18,7 @@ The RMRK NFT 2.0 Concepts are:
   - The ability for NFTs to be fractionalized and community governed
 - [Non-transferable NFTs](nontransferable)
   - The ability for NFTs to be bound to another NFT or to an account address
+- [Provable Digital Scarcity](scarcity)
+  - The concept that an NFT is only available in one place at one time, enforced by the blockchain's security.
 
 Explore each on its own separate page.

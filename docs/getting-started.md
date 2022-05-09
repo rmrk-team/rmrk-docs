@@ -13,17 +13,9 @@ products, and tools RMRK offers, or read below to get familiar with RMRK in gene
 ## What is RMRK?
 
 RMRK is a set of NFT standards which compose several "NFT 2.0 lego" primitives. Putting these legos
-together allows a user to create NFT systems of arbitrary complexity:
+together allows a user to create NFT systems of arbitrary complexity. All the legos and their related concepts are described [here](concepts).
 
-- [Nested NFTs](lego1-nested)
-- [Multi-resource NFTs](lego2-multi-resource)
-- [Equippable NFTs](lego2.5-equippable)
-- [On-chain emotes](lego3-emote)
-- [Conditional Rendering](lego4-conditional-rendering)
-- [NFTs as DAOs](lego5-dao)
-- [Non-transferable NFTs](nontransferable)
-
-The legos exist in three formats:
+The RMRK standard exists in three formats:
 
 - [Kusama implementation](rmrk2)
 - [EVM implementation](evm)

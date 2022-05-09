@@ -1,5 +1,5 @@
 ---
-title: "NFT 2.0 Lego 4: Conditional Rendering"
+title: "Conditional Rendering"
 ---
 
 Conditional rendering uses [jsonlogic](https://jsonlogic.com/) to define client-only render alterations to the NFT based on certain on and off chain conditions.

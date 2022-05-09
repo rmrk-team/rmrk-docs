@@ -1,5 +1,5 @@
 ---
-title: "NFT 2.0 Lego 2.5: Bases and Equippable NFTs"
+title: "Bases and Equippable NFTs"
 ---
 
 We introduce the concept of a BASE.

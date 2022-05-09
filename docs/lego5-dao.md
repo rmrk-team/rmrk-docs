@@ -1,5 +1,5 @@
 ---
-title: "NFT 2.0 Lego 5: NFTs as DAOs"
+title: "NFTs as DAOs"
 ---
 
 Being able to turn an NFT into a DAO refers to the ability of RMRK NFTs to be fractionalized for a deposit in RMRK tokens.
