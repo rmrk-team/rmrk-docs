@@ -25,8 +25,8 @@ is placed in the root level of the NFT, just like in standards like ERC721.
 In this case, such a RMRK NFT is fully compatible with ERC721.
 
 If the **issuer** of the collection adds a new resource to an NFT from this collection, this new
-resource will, if accepted(faq#multisig), replace the root-level metadata in all interfaces,
-renders, wallets, etc.
+resource will, if [accepted](#proposing-accepting-replacing), replace the root-level metadata in all
+interfaces, renders, wallets, etc.
 
 > ⚠️ A resource **always** takes priority over root-level metadata
 
@@ -136,7 +136,8 @@ ahead of time, or it can be made on-demand as a new resource is proposed.
 
 ## Implementations
 
-The implementations below lead directly to code. For examples of how to utilize them to mint your own NFTs, please refer to the sidebar section for each implementation subtype.
+The implementations below lead directly to code. For examples of how to utilize them to mint your
+own NFTs, please refer to the sidebar section for each implementation subtype.
 
 - [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/entities/nft.md#resources-and-resource)
 - [EVM](https://github.com/rmrk-team/evm/tree/eip/contracts/MultiResource_EIP)
