@@ -45,7 +45,7 @@ available to everyone.
 
 As a user or author, you can mint on the [Singular UI](https://singular.app). A self-help knowledgebase is set up [here](https://coda.io/@rmrk/faq), and our [YouTube channel](https://url.rmrk.app/yt) has various tutorials on how to use the app.
 
-As a developer who wants to build their own wallet or UI for RMRK, you probably want to [learn the concepts first](lego1-nested), then refer to the [Specs](https://github.com/rmrk-team/rmrk-spec), or if you'd like to use existing components we've
+As a developer who wants to build their own wallet or UI for RMRK, you probably want to [learn the concepts first](concepts), then refer to the [Specs](https://github.com/rmrk-team/rmrk-spec), or if you'd like to use existing components we've
 built, the [Tools](https://github.com/rmrk-team/rmrk-tools).
 
 ## RMRK-based projects

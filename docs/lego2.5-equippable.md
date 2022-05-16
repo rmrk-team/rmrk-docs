@@ -110,7 +110,7 @@ The most important part is `parts` - this is the array in which we specify which
 
 The first slot is `headwear` and you can see it is a `slot` type. The `equippable` array lists the collections that are allowed as equippables. The issuer of the base can modify this value at any time, adding and removing collections at will. 
 
-The `fixed` slot just points to a visual which should be rendered. It is immutable.
+The `fixed` part just points to a visual which should be rendered. It is immutable.
 
 The `z` value in both indicates on which layer the visual appears on the SVG base, height-wise. The higher the number, the "closer to camera" it is. This is especially important for slot, since - per the image above - the `z` value of the handheld slot needs to be between the fingers and the palm, and the `z` value of the background needs to be the lowest of all to be rendered at the bottom.
 
