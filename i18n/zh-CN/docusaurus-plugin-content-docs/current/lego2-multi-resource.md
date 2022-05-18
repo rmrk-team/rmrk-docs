@@ -2,7 +2,7 @@
 title: "多源NFT"
 ---
 
-_资源_ 是NFT的一种输出类型：通常是媒体文件。资源可以是图像、电影、PDF文件，甚至是BASE（一种特殊的实体 - 请参见[此处](lego2.5-equippable)）。多源NFT是一种可以基于特定上下文信息输出不同资源的NFT，例如，如果加载到PDF阅读器中则加载PDF，同理，在虚拟画廊中加载图像。
+_资源_ 是NFT的一种输出类型：通常是媒体文件。资源可以是图像、电影、PDF文件，甚至是BASE（一种特殊的实体 - 请参见[此处](/lego2.5-equippable)）。多源NFT是一种可以基于特定上下文信息输出不同资源的NFT，例如，如果加载到PDF阅读器中则加载PDF，同理，在虚拟画廊中加载图像。
 
 一个资源 **不是** 一个NFT或者一个可以被你引用的独立实体。它是NFT的 _一部分_ —— NFT拥有的多个输出中的一个。
 
@@ -72,7 +72,7 @@ NFT可以有多个资源，而不是单个资源指向单个HTTPS URI，每个�
 
 ### 示例7：可装备能力与前向兼容性
 
-使用[嵌套](lego1-nested)和[可装备](lego2.5-equippable)NFT时，可以使多资源NFT与未来出现的集合兼容，从而为NFT项目增加实用性，否则该项目可能会在发布后因缺乏社区兴趣而死亡。
+使用[嵌套](/lego1-nested)和[可装备](/lego2.5-equippable)NFT时，可以使多资源NFT与未来出现的集合兼容，从而为NFT项目增加实用性，否则该项目可能会在发布后因缺乏社区兴趣而死亡。
 
 例如，与[Skybreach](https://skybreach.app)中的[Chunky](https://rmrk.gitbook.io/kanaria-skybreach/fundamentals/skybreach-avatars/chunkies)兼容的镐将具有与Skybreach游戏引擎兼容的像素绘制版资源。
 

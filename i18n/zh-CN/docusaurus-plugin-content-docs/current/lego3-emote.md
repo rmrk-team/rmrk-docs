@@ -16,7 +16,7 @@ RMRK支持对NFT做出“反应”。
 
 在传输过程中，所有反应也会与NFT一起转移。这些反应本身不是NFT，只是添加到现有数据记录——NFT中。
 
-表情是[条件渲染](lego4-conditional-rendering)中的关键部分。
+表情是[条件渲染](/lego4-conditional-rendering)中的关键部分。
 
 ## 实现
 

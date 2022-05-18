@@ -6,6 +6,6 @@ title: EVM
 
 EVM实现可以在[这里](https://github.com/rmrk-team/evm)找到。使用教程即将发布。
 
-要浏览每个独立的[概念](concepts.md)，请看下方列出的适用EIP或者合约链接。
+要浏览每个独立的[概念](/concepts)，请看下方列出的适用EIP或者合约链接。
 
 - 即将发布
