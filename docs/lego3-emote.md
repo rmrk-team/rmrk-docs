@@ -4,7 +4,7 @@ title: "On-chain emotes"
 
 RMRK supports the ability to "react" to any NFT.
 
-Under the hood, unicodes are applied to NFT IDs, and these pairs are mapped to addresses in a master record per chain.
+Under the hood, unicodes are applied to NFT IDs in a separate record.
 
 Reactions are switches, meaning sending 👍 when you already sent a 👍 will remove it.
 
