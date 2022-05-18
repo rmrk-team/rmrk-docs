@@ -12,7 +12,7 @@ Currently, all reactions apply equally and are rendered by all implementations, 
 
 During a transfer, all reactions travel with an NFT. The reactions are not NFTs themselves, just flair added to an existing data record - the NFT.
 
-Emotes are a key part of [conditional rendering](lego4-conditional-rendering).
+Emotes are a key part of [conditional rendering](/lego4-conditional-rendering).
 
 ## Implementations
 

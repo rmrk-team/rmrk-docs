@@ -54,6 +54,6 @@ These rules are defined in the [RMRK Specification](https://github.com/rmrk-team
 humanized, clarified, codified, and exemplified in this documentation.
 
 In many ways, RMRK 1.0 is like any NFT standard you might be used to on Ethereum - a simple way to
-store references to multimedia. We augmented this with on-chain [emotes](lego3-emote.md).
+store references to multimedia. We augmented this with on-chain [emotes](/lego3-emote.md).
 
-RMRK 1.0 has been deprecated since [RMRK 2](rmrk2.md) has been out. Old RMRK1 NFTs can be seen on the [legacy version of Singular](https://singular.rmrk.app).
+RMRK 1.0 has been deprecated since [RMRK 2](/rmrk2.md) has been out. Old RMRK1 NFTs can be seen on the [legacy version of Singular](https://singular.rmrk.app).

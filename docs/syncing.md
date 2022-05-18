@@ -60,7 +60,7 @@ Install RMRK tools. You need a modern version of NodeJS and Yarn. We recommend u
 yarn install rmrk-tools
 ```
 
-By default, RMRK Tools work with [RMRK 2](rmrk2.md). If you're working with [RMRK 1](rmrk1.md), switch the branch to
+By default, RMRK Tools work with [RMRK 2](/rmrk2.md). If you're working with [RMRK 1](/rmrk1.md), switch the branch to
 `rmrk-one`:
 
 ```bash

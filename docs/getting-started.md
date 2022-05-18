@@ -13,13 +13,13 @@ products, and tools RMRK offers, or read below to get familiar with RMRK in gene
 ## What is RMRK?
 
 RMRK is a set of NFT standards which compose several "NFT 2.0 lego" primitives. Putting these legos
-together allows a user to create NFT systems of arbitrary complexity. All the legos and their related concepts are described [here](concepts).
+together allows a user to create NFT systems of arbitrary complexity. All the legos and their related concepts are described [here](/concepts).
 
 The RMRK standard exists in three formats:
 
-- [Kusama implementation](rmrk2)
-- [EVM implementation](evm)
-- [FRAME Pallet implementation](pallets)
+- [Kusama implementation](/rmrk2)
+- [EVM implementation](/evm)
+- [FRAME Pallet implementation](/pallets)
 
 One of the best short introductions into RMRK is the following video:
 
@@ -45,7 +45,7 @@ available to everyone.
 
 As a user or author, you can mint on the [Singular UI](https://singular.app). A self-help knowledgebase is set up [here](https://coda.io/@rmrk/faq), and our [YouTube channel](https://url.rmrk.app/yt) has various tutorials on how to use the app.
 
-As a developer who wants to build their own wallet or UI for RMRK, you probably want to [learn the concepts first](concepts), then refer to the [Specs](https://github.com/rmrk-team/rmrk-spec), or if you'd like to use existing components we've
+As a developer who wants to build their own wallet or UI for RMRK, you probably want to [learn the concepts first](/concepts), then refer to the [Specs](https://github.com/rmrk-team/rmrk-spec), or if you'd like to use existing components we've
 built, the [Tools](https://github.com/rmrk-team/rmrk-tools).
 
 ## RMRK-based projects

@@ -10,7 +10,7 @@ An NFT of an apple might rot after a certain block, turning into an image of a r
 
 An NFT image of a bicycle can show signs of deterioration and dilapidation if it was sold more than, say, 50 times.
 
-A wolf image could show a pack if people have minted more than 50 wolves into this collection, or even sent wolves [into](lego1-nested.md) the original wolf.
+A wolf image could show a pack if people have minted more than 50 wolves into this collection, or even sent wolves [into](/lego1-nested.md) the original wolf.
 
 These interactions can have in-game effects, but can also be community-driven art. A collaborative experience where if enough people interact with an NFT in some way, its essence changes.
 
@@ -35,7 +35,7 @@ A logic block of an NFT might look something like this:
 
 In the above example, you can see three scenarios playing out:
 
-- if the NFT gets more than 50 rocket [emotes](lego3-emote.md), it would show a different resource as top priority. So, a moon shows a moon landing if 50 rockets are on it.
+- if the NFT gets more than 50 rocket [emotes](/lego3-emote.md), it would show a different resource as top priority. So, a moon shows a moon landing if 50 rockets are on it.
 - if the NFT gets more than 50 snow emoji, the default background of the first resource will be overridden and show a snowy mountain instead.
 - if the NFT has its mutable attribute set to "rain" then the background becomes a rainy image
 
