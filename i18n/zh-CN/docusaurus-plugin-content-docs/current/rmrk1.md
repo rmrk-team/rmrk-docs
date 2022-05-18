@@ -1,59 +1,45 @@
 ---
-title: RMRK 1.0 (deprecated)
+title: RMRK 1.0 (已弃用)
 ---
 
-Because Kusama - where RMRK originated - has no smart contracts or programmability, RMRK 1.0 is based on the `system.remark` utility function of many [Substrate](https://substrate.dev)
-chains, [Kusama](https://kusama.network) included.
+由于RMRK的发源地Kusama没有智能合约或可编程性，RMRK1.0基于`system.remark`这个许多[Substrate](https://substrate.dev)链的工具函数，包括[Kusama](https://kusama.network)。
 
-Remarks are like notes, like graffiti on the blocks. The information is not stored in the chain's
-trie, but along blocks as input. Remarks are no-effect extrinsics (external inputs), which means
-they do not alter the chain's storage, but are stored on the hard drive of the nodes alongside block
-records.
+> 译注：下文的“标记”对应的英文含义就是Remarks
 
-By interpreting this data in a special way, tools can understand information in different ways than
-an outside observer might.
+标记就像笔记，就像区块上的涂鸦。信息不存储在链的trie中，而是作为输入存储在块中。标记是无影响的外部调用（外部输入），这意味着它们不会改变链的存储，而是与块记录一起存储在节点的硬盘上。
 
-As an analogy, a blockchain is a ship with each block being a shipping container. Inside it are transactions. Remarks do not put content into the containers, but graffiti the side of the container. The message still gets sent across but does not affect the content of the container. On arrival, a special language interpreter (the RMRK specification) is who interprets these graffiti to form a coherent picture of the state of NFTs.
+通过以特殊方式解释这些数据，工具可以以不同于外部观察者的方式理解信息。
 
-The **rules** for how to interpret this are called specifications or standards, and RMRK is one such
-set of rules. So, RMRK deals with applying rules to _remarks_, which is what we call blockchain
-graffiti on
-[Substrate-based blockchains](https://dotleap.com/an-explanation-of-substrate-for-humans/) like
-Kusama or Polkadot.
+打个比方，区块链是一艘船，每个区块都是一个集装箱。区块里面是交易。标记不将内容放入集装箱中，而是在集装箱侧面涂鸦。消息仍然会被发送，但不会影响集装箱的内容。到达时，一个特殊的语言解释器（RMRK 规范）将解释这些涂鸦以形成NFT状态的连贯图。
 
-> RMRK is a set of rules dictating how to interpret blockchain graffiti in a way that lets us
-> simulate logic on a chain without smart contracts.
+如何解释这一点的 **规则** 称为规范或标准，RMRK就是这样一组规则。因此，RMRK将规则应用于 _标记_，这就是我们所说的[基于Substrate的区块链](https://dotleap.com/an-explanation-of-substrate-for-humans/)（如 Kusama 或 Polkadot）上的区块链涂鸦。
 
-As an example, imagine emitting a graffiti (remark) like this:
+> RMRK 是一套规则，规定如何解释区块链涂鸦，让我们在没有智能合约的情况下模拟链上的逻辑。
+
+例如，想象一下像这样发出涂鸦（标记）：
 
 ```
 ALICE::Init::Apple::5
 ```
 
-ALICE's account is allowed to issue a SEND transaction like so:
+Alice的账户被允许发出如下的SEND交易：
 
 ```
 ALICE::Send::Apple::3::Bob
 ```
 
-The RMRK standard makes sure that Alice has more than 3 apples, that she is who is sending the
-transaction, and that the recipient is valid (i.e. not gibberish).
+RMRK标准确保Alice拥有超过3个苹果，她是发送交易的人，并且接收者是有效的（不是乱填的地址）。
 
-If Alice tried to do:
+如果Alice尝试：
 
 ```
 ALICE::Send::Apple::10::Alice
 ```
 
-... she would essentially be able to print apples. We don't want that, so the system **must** check
-that the amount being sent is less than or equal to the number in inventory. Same if Bob tried to
-issue an Alice transaction - the tools would stop this and ignore such a remark, because Bob cannot
-interact with Alice's inventory.
+。。。她基本就能无限打印苹果。我们不希望这样，因此系统 **必须** 检查发送的数量是否小于或等于库存中的数量。如果Bob试图发出和Alice同样的交易也是一样的——工具会阻止并忽略这样的标记，因为Bob不能与Alice的库存交互。
 
-These rules are defined in the [RMRK Specification](https://github.com/rmrk-team/rmrk-spec), but
-humanized, clarified, codified, and exemplified in this documentation.
+这些规则在[RMRK规范](https://github.com/rmrk-team/rmrk-spec)中进行了定义，但在本文档中进行了提高易读性、澄清、编纂和举例说明。
 
-In many ways, RMRK 1.0 is like any NFT standard you might be used to on Ethereum - a simple way to
-store references to multimedia. We augmented this with on-chain [emotes](lego3-emote.md).
+在许多方面，RMRK1.0就像你在以太坊上可能习惯的任何NFT标准——一种存储多媒体引用的简单方法。我们通过链上[表情](lego3-emote.md)增强了这一点。
 
-RMRK 1.0 has been deprecated since [RMRK 2](rmrk2.md) has been out. Old RMRK1 NFTs can be seen on the [legacy version of Singular](https://singular.rmrk.app).
+自[RMRK 2](rmrk2.md)发布以来，RMRK 1.0已被弃用。在[旧版Singular](https://singular.rmrk.app)上可以看到旧的RMRK1 NFT 。

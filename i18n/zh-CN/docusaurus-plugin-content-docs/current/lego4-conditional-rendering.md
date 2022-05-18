@@ -1,20 +1,20 @@
 ---
-title: "Conditional Rendering"
+title: "条件渲染"
 ---
 
-Conditional rendering uses [jsonlogic](https://jsonlogic.com/) to define client-only render alterations to the NFT based on certain on and off chain conditions.
+条件渲染使用[jsonlogic](https://jsonlogic.com/)根据某些链上和链下条件定义对NFT的仅客户端渲染更改。
 
-For example, an NFT depicting an image of a moon might change to a halfmoon with a rocket landing on it if it gets 50 🌓 and 30 🚀 emojis on it. 
+例如，描绘月球图像的NFT，如果上面有50个 🌓 和30个 🚀 表情符号，就会变成半月形并且有火箭降落在上面的样子。
 
-An NFT of an apple might rot after a certain block, turning into an image of a rotten apple, or if consumed in time by means of 🍴 emoji, it becomes just an apple core.
+一个苹果的NFT可能会在某个区块后腐烂，变成一个烂苹果的图像，或者如果通过🍴emoji表情及时消费，它就会变成一个苹果核。
 
-An NFT image of a bicycle can show signs of deterioration and dilapidation if it was sold more than, say, 50 times.
+如果自行车的NFT图像被出售超过50次，则可能会显示出变质和破旧的迹象。
 
-A wolf image could show a pack if people have minted more than 50 wolves into this collection, or even sent wolves [into](lego1-nested.md) the original wolf.
+如果人们在集合中铸造了超过50只狼，或者将别的狼[发送到](lego1-nested.md)原始的狼里，那狼图像就会显示为一个狼群。
 
-These interactions can have in-game effects, but can also be community-driven art. A collaborative experience where if enough people interact with an NFT in some way, its essence changes.
+这些互动可以产生游戏内效果，但也可以是社区驱动的艺术。这是一种协作体验，如果有足够多的人以某种方式与NFT交互，它的本质就会改变。
 
-A logic block of an NFT might look something like this:
+NFT 的逻辑块可能如下所示：
 
 ```
     "logic": [
@@ -33,16 +33,16 @@ A logic block of an NFT might look something like this:
     ],
 ```
 
-In the above example, you can see three scenarios playing out:
+在上面的示例中，您可以看到三个场景：
 
-- if the NFT gets more than 50 rocket [emotes](lego3-emote.md), it would show a different resource as top priority. So, a moon shows a moon landing if 50 rockets are on it.
-- if the NFT gets more than 50 snow emoji, the default background of the first resource will be overridden and show a snowy mountain instead.
-- if the NFT has its mutable attribute set to "rain" then the background becomes a rainy image
+- 如果 NFT 获得超过 50 个火箭[表情](lego3-emote.md)，它将显示不同的资源作为最高优先级。因此，如果月球上有50枚火箭，则表明月球着陆。
+- 如果NFT获得超过50个雪emoji，则第一个资源的默认背景将被覆盖并显示为雪山。
+- 如果 NFT 的可变属性设置为“rain”，则背景变为下雨图像。
 
-## Implementations
+## 实现
 
-There are no live implementations of this specification yet.
+目前还没有该规范的落地实现。
 
-- Kusama (research phase)
-- EVM (research phase)
-- Pallets (research phase)
+- Kusama (研究阶段)
+- EVM (研究阶段)
+- Pallets (研究阶段)

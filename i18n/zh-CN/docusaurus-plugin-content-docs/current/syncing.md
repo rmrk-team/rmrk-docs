@@ -2,6 +2,8 @@
 title: Synchronization
 ---
 
+> 译注：此章节完全为开发人员所准备，拥有良好的英语阅读能力是参与Web3开发的基础，因此不为该页面提供翻译
+
 Because RMRK NFTs are currently logged alongside blocks, but do not change state of the chain, they
 are not easy to fetch.
 

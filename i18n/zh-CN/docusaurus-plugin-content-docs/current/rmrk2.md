@@ -2,20 +2,14 @@
 title: RMRK 2.0
 ---
 
-Building on the [RMRK 1.0 logic](rmrk1) of interpreting system remarks, RMRK 2.0 adds more
-functionality on top.
+基于[RMRK 1.0](rmrk1.md)解释系统标记的逻辑，RMRK 2.0在顶层添加了更多功能。
 
-With RMRK 2 we introduce the concept of _NFT legos_: extremely simple primitive components of a
-standard that, when put together, can make an infinitely complex project which is still supported by
-any UI supporting the individual standards.
+在 RMRK 2中，我们引入了 _NFT乐高_ 的概念：一个标准的极其简单的原始组件，当它们组合在一起时，可以组成一个无限复杂的项目，并且仍然被任何支持单个标准的UI所支持。
 
-The legos are defined in the [concepts](concepts).
+乐高在[概念](concepts.md)中进行了定义。
 
-With this power, we enable the construction of very rich and smart NFT projects without needing
-custom logic and smart contracts, dramatically expanding forward compatibility of the NFTs created
-this way. 
+凭借这种能力，我们可以构建非常丰富和智能的NFT项目，而无需自定义逻辑和智能合约，从而极大地扩展了以这种方式创建的NFT的前向兼容性。
 
-As an introduction, [this coding workshop](https://crowdcast.io/e/buidl) is a good foray into RMRK
-2.0 composability.
+作为介绍，这个[编码研讨会](https://crowdcast.io/e/buidl)是对RMRK 2.0可组合性的一次很好的尝试。
 
-Written tutorials on how to mint RMRK2 NFTs are coming soon.
+关于如何铸造RMRK2 NFT的书面教程即将推出。

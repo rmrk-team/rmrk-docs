@@ -1,5 +1,5 @@
 ---
-title: "FAQ: Frequently Asked Questions"
+title: "FAQ: 常见问题解答"
 ---
 
-The FAQ is now hosted in the [self-help knowledgebase](https://coda.io/@rmrk/faq).
+FAQ现在托管在[自助知识库](https://coda.io/@rmrk/faq).
