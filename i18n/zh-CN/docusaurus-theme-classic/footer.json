@@ -1,0 +1,62 @@
+{
+  "link.title.Info": {
+    "message": "相关信息",
+    "description": "The title of the footer links column with title=Info in the footer"
+  },
+  "link.title.Community": {
+    "message": "社区",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Github": {
+    "message": "Github",
+    "description": "The title of the footer links column with title=Github in the footer"
+  },
+  "link.item.label.RMRK.app web": {
+    "message": "RMRK.app官网",
+    "description": "The label of footer link with label=RMRK.app web linking to https://rmrk.app"
+  },
+  "link.item.label.Kanaria": {
+    "message": "Kanaria",
+    "description": "The label of footer link with label=Kanaria linking to https://kanaria.rmrk.app"
+  },
+  "link.item.label.Singular Marketplace": {
+    "message": "Singular市场",
+    "description": "The label of footer link with label=Singular Marketplace linking to https://singular.rmrk.app"
+  },
+  "link.item.label.RMRK Tokens": {
+    "message": "RMRK代币",
+    "description": "The label of footer link with label=RMRK Tokens linking to https://singular.rmrk.app/tokens"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/rmrkapp"
+  },
+  "link.item.label.Telegram (implementers chat)": {
+    "message": "Telegram (开发者交流群)",
+    "description": "The label of footer link with label=Telegram (implementers chat) linking to https://t.me/rmrkimpl"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/rmrkapp"
+  },
+  "link.item.label.Newsletter": {
+    "message": "Newsletter",
+    "description": "The label of footer link with label=Newsletter linking to https://news.nft.review"
+  },
+  "link.item.label.Specs GitHub": {
+    "message": "Specs GitHub",
+    "description": "The label of footer link with label=Specs GitHub linking to https://github.com/rmrk-team/rmrk-spec"
+  },
+  "link.item.label.Docs GitHub": {
+    "message": "Docs GitHub",
+    "description": "The label of footer link with label=Docs GitHub linking to https://github.com/rmrk-team/rmrk-docs"
+  },
+  "link.item.label.Tools GitHub": {
+    "message": "Tools GitHub",
+    "description": "The label of footer link with label=Tools GitHub linking to https://github.com/rmrk-team/rmrk-tools"
+  },
+  "copyright": {
+    "message": "Copyright © 2022 RMRK Team.",
+    "description": "The footer copyright"
+  }
+}
