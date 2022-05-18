@@ -30,6 +30,10 @@ module.exports = {
           label: "GitHub",
           position: "right",
         },
+        {
+          type: "localeDropdown",
+          position: "right",
+        },
       ],
     },
     footer: {
@@ -106,6 +110,7 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl: "https://github.com/rmrk-team/rmrk-docs/edit/master/",
+          editLocalizedFiles: true,
           routeBasePath: "/",
         },
         theme: {
@@ -114,4 +119,16 @@ module.exports = {
       },
     ],
   ],
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-CN"],
+    localeConfigs: {
+      en: {
+        label: "English",
+      },
+      "zh-CN": {
+        label: "简体中文",
+      },
+    },
+  },
 };

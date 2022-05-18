@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.RMRK Concepts": {
+    "message": "RMRK相关概念",
+    "description": "The label for category RMRK Concepts in sidebar docs"
+  },
+  "sidebar.docs.category.Kusama Implementation (Remarks)": {
+    "message": "Kusama上的实现 (Remarks)",
+    "description": "The label for category Kusama Implementation (Remarks) in sidebar docs"
+  },
+  "sidebar.docs.category.EVM implementation": {
+    "message": "EVM 实现",
+    "description": "The label for category EVM implementation in sidebar docs"
+  },
+  "sidebar.docs.category.FRAME implementation": {
+    "message": "FRAME 实现",
+    "description": "The label for category FRAME implementation in sidebar docs"
+  }
+}
