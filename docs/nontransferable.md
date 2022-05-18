@@ -15,5 +15,5 @@ In addition to a simple on/off flag, the Kusama implementation (see below) suppo
 The implementations below lead directly to code. For examples of how to utilize them to mint your own NFTs, please refer to the sidebar section for each implementation subtype.
 
 - [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/entities/nft.md#nft-standard)
-- [EVM](in development)
-- [Pallets](in development)
+- EVM (in development)
+- Pallets (in development)
