@@ -105,7 +105,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/rmrk-team/rmrk-docs/edit/master/website/",
+          editUrl: "https://github.com/rmrk-team/rmrk-docs/edit/master/docs/",
           routeBasePath: "/",
         },
         theme: {
