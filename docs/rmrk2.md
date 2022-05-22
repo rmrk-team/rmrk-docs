@@ -16,6 +16,10 @@ custom logic and smart contracts, dramatically expanding forward compatibility o
 this way. 
 
 As an introduction, [this coding workshop](https://crowdcast.io/e/buidl) is a good foray into RMRK
-2.0 composability.
+2.0 composability, and its accompanying code repository can be found [here](https://github.com/rmrk-team/rmrk2-examples). 
 
-Written tutorials on how to mint RMRK2 NFTs are coming soon.
+## Tutorials
+
+- Minting Simple NFTs (coming soon)
+- Minting Multi Resource NFTs (coming soon)
+- Minting Equippable Collections (coming soon)

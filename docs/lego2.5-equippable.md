@@ -212,6 +212,10 @@ Some interesting early experiments with game-related equippables can be seen in 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_RW7XymkI_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Another interesting example is using equippable NFTs to represent on-chain participation, like in the example of [Kusama Governance Rewards](https://app.subsocial.network/6214/referendum-voting-rewards-the-past-the-present-the-future-32141). For a breakdown, please see the video below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lpT7hubqzFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Implementations
 
 The implementations below lead directly to code. For examples of how to utilize them to mint your own NFTs, please refer to the sidebar section for each implementation subtype.
