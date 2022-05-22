@@ -23,7 +23,7 @@ Some NFTs can be configured with special conditions for parent-child relationshi
   stem enough, or until the owner of the parent music track seals and "publishes" it
 
 The concept of nested NFTs is further expanded through the idea of
-[equippability](/lego2.5-equippable).
+[equippability](/lego25-equippable).
 
 ## Implementations
 

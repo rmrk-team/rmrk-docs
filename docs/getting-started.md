@@ -13,7 +13,9 @@ products, and tools RMRK offers, or read below to get familiar with RMRK in gene
 ## What is RMRK?
 
 RMRK is a set of NFT standards which compose several "NFT 2.0 lego" primitives. Putting these legos
-together allows a user to create NFT systems of arbitrary complexity. All the legos and their related concepts are described [here](/concepts).
+together allows a user to create NFT systems of arbitrary complexity. 
+
+> All the legos and their related concepts are described [here](/concepts).
 
 The RMRK standard exists in three formats:
 

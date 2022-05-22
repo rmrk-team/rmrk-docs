@@ -1,20 +1,23 @@
 module.exports = {
   docs: [
     "getting-started",
+    "concepts",
     {
       type: "category",
-      label: "RMRK Concepts",
+      label: "RMRK Legos",
       items: [
-        "concepts",
         "lego1-nested",
         "lego2-multi-resource",
-        "lego2.5-equippable",
+        "lego25-equippable",
         "lego3-emote",
         "lego4-conditional-rendering",
         "lego5-dao",
-        "nontransferable",
-        "scarcity",
       ],
+    },
+    {
+      type: "category",
+      label: "RMRK Concepts",
+      items: ["nontransferable", "scarcity", "ownershipxp"],
     },
     {
       type: "category",

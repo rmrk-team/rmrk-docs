@@ -9,7 +9,7 @@ The RMRK NFT 2.0 Concepts are:
 - [多源NFT](/lego2-multi-resource)
   - 使NFT可以根据其处于上下文的不同而改变输出
   > 译注：假设我们将ERC721 NFT抽象为它是某<u>**1个**</u>资源的载体，则RMRK NFT理论上就可以承载<u>**无数个**</u>资源，具体呈现为哪一个资源，取决于它所处的环境上下文。举例：BAYC在NFT市场上呈现为2D图片形象，当BAYC所处上下文为Otherside开发的元宇宙中时，其将呈现为一个3D模型。
-- [可装备的NFT](/lego2.5-equippable)
+- [可装备的NFT](/lego25-equippable)
   - 使NFT能够装备已持有的NFT以获得额外效用或改变其外观，也称为可组合 NFT
 - [链上表情反应](/lego3-emote)
   - 在任何 NFT 上发送和渲染接收到的表情（表情符号反应）的社交机制
