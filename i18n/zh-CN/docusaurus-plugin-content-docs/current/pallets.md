@@ -6,6 +6,6 @@ title: FRAME实现
 
 FRAME pallet实现可以在 https://github.com/rmrk-team/rmrk-substrate 找到。使用教程即将推出。
 
-探索每个单独的[概念](concepts.md)，请参阅下面链接的适用pallet：
+探索每个单独的[概念](/concepts)，请参阅下面链接的适用pallet：
 
 - 即将到来

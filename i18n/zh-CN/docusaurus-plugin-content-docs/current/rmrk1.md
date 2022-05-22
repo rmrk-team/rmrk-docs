@@ -40,6 +40,6 @@ ALICE::Send::Apple::10::Alice
 
 这些规则在[RMRK规范](https://github.com/rmrk-team/rmrk-spec)中进行了定义，但在本文档中进行了提高易读性、澄清、编纂和举例说明。
 
-在许多方面，RMRK1.0就像你在以太坊上可能习惯的任何NFT标准——一种存储多媒体引用的简单方法。我们通过链上[表情](lego3-emote.md)增强了这一点。
+在许多方面，RMRK1.0就像你在以太坊上可能习惯的任何NFT标准——一种存储多媒体引用的简单方法。我们通过链上[表情](/lego3-emote)增强了这一点。
 
-自[RMRK 2](rmrk2.md)发布以来，RMRK 1.0已被弃用。在[旧版Singular](https://singular.rmrk.app)上可以看到旧的RMRK1 NFT 。
+自[RMRK 2](/rmrk2)发布以来，RMRK 1.0已被弃用。在[旧版Singular](https://singular.rmrk.app)上可以看到旧的RMRK1 NFT 。

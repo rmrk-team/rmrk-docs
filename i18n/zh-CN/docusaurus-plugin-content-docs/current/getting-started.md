@@ -10,13 +10,13 @@ title: 起步
 
 ## 什么是RMRK？
 
-RMRK是一套NFT标准，它由几个“NFT 2.0乐高”原语组成。把这些乐高积木放在一起，将允许让用户创建任意复杂度的NFT系统。[这里](concepts)描述了所有乐高积木及其相关概念。
+RMRK是一套NFT标准，它由几个“NFT 2.0乐高”原语组成。把这些乐高积木放在一起，将允许让用户创建任意复杂度的NFT系统。[这里](/concepts)描述了所有乐高积木及其相关概念。
 
 RMRK标准以3种形式存在：
 
-- [Kusama 实现](rmrk2)
-- [EVM 实现](evm)
-- [FRAME Pallet 实现](pallets)
+- [Kusama 实现](/rmrk2)
+- [EVM 实现](/evm)
+- [FRAME Pallet 实现](/pallets)
 
 RMRK 的最佳简短介绍之一是以下视频：
 
@@ -38,7 +38,7 @@ RMRK 团队是一组开源 NFT 2.0 标准（称为_RMRK 标准_）和 [Skybreach
 
 作为用户或作者，您可以在[Singular UI](https://singular.app)上mint。[这里](https://coda.io/@rmrk/faq)搭设了一个自助知识库，我们的 [YouTube 频道](https://url.rmrk.app/yt)有各种关于如何使用这个应用的教程。
 
-作为想要构建自己的基于RMRK的钱包或 UI 的开发人员，你可能想[先学习概念](concepts)，然后参考[规范](https://github.com/rmrk-team/rmrk-spec)，或者如果您想使用我们构建的现有[工具](https://github.com/rmrk-team/rmrk-tools)。
+作为想要构建自己的基于RMRK的钱包或 UI 的开发人员，你可能想[先学习概念](/concepts)，然后参考[规范](https://github.com/rmrk-team/rmrk-spec)，或者如果您想使用我们构建的现有[工具](https://github.com/rmrk-team/rmrk-tools)。
 
 ## 基于RMRK的项目
 
