@@ -18,5 +18,9 @@
   "sidebar.docs.category.FRAME implementation": {
     "message": "FRAME 实现",
     "description": "The label for category FRAME implementation in sidebar docs"
+  },
+  "sidebar.docs.category.RMRK Legos": {
+    "message": "RMRK乐高积木",
+    "description": "The label for category RMRK Legos in sidebar docs"
   }
 }
