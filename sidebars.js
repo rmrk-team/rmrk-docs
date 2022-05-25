@@ -17,7 +17,7 @@ module.exports = {
     {
       type: "category",
       label: "RMRK Concepts",
-      items: ["nontransferable", "scarcity", "ownershipxp"],
+      items: ["nontransferable", "scarcity", "ownershipxp", "econ"],
     },
     {
       type: "category",
