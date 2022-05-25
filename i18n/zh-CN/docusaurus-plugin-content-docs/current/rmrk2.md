@@ -10,6 +10,9 @@ title: RMRK 2.0
 
 凭借这种能力，我们可以构建非常丰富和智能的NFT项目，而无需自定义逻辑和智能合约，从而极大地扩展了以这种方式创建的NFT的前向兼容性。
 
-作为介绍，这个[编码研讨会](https://crowdcast.io/e/buidl)是对RMRK 2.0可组合性的一次很好的尝试。
+作为介绍，这个[编码研讨会](https://crowdcast.io/e/buidl)是对RMRK 2.0可组合性的一次很好的尝试，其附带的代码库可以在[这里](https://github.com/rmrk-team/rmrk2-examples)找到。
 
-关于如何铸造RMRK2 NFT的书面教程即将推出。
+## 教程
+- 铸造简单的NFT（即将到来）
+- 铸造多资源NFT（即将到来）
+- 铸造可装备的NFT集合（即将到来）
