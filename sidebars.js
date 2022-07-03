@@ -21,6 +21,11 @@ module.exports = {
     },
     {
       type: "category",
+      label: "Use Cases",
+      items: ["cross_game_skins", "ticketing"],
+    },
+    {
+      type: "category",
       label: "Kusama Implementation (Remarks)",
       items: ["rmrk1", "rmrk2", "syncing"],
     },

@@ -8,4 +8,6 @@ The EVM implementation can be found [here](https://github.com/rmrk-team/evm). Us
 
 To explore each individual [concept](/concepts), please see the applicable EIPs or contracts linked below:
 
-- coming soon
+- [Multi-Resource NFTs, standalone EIP](https://github.com/rmrk-team/MultiResourceEIP)
+  - Production use cases:
+    - [NCVerse](https://neoncrisis.io/my-collection/ncverse)

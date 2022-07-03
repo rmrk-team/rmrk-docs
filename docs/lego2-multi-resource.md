@@ -140,5 +140,7 @@ The implementations below lead directly to code. For examples of how to utilize 
 own NFTs, please refer to the sidebar section for each implementation subtype.
 
 - [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/entities/nft.md#resources-and-resource)
+  - In production examples:
+    - [NCVerse](https://neoncrisis.io/my-collection/ncverse)
 - [EVM](https://github.com/rmrk-team/evm/tree/eip/contracts/MultiResource_EIP)
 - [Pallets](https://github.com/rmrk-team/rmrk-substrate/blob/main/pallets/rmrk-core/src/lib.rs)
