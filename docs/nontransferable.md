@@ -1,10 +1,12 @@
 ---
-title: "Non-transferable NFTs"
+title: "Soulbound 2.0 NFTs: Non-transferables"
 ---
 
 Non-transferable NFTs, popularized by Vitalik Buterin as [soulbound](https://vitalik.ca/general/2022/01/26/soulbound.html), are NFTs that are useful for reputation tracking: they get added to addresses but are non-transferable, so they cannot be sold and permanently assign some modifier to a given address.
 
-In RMRK this is an especially interesting concept as NFTs can be non-transferable inside another transferable NFT. Thus, an NFT like a [Kanaria](https://kanaria.rmrk.app) can have non-transferable gems inside it that give it long lasting benefits and bonuses, but cannot be removed, alongside some tradable NFTs as well.
+In RMRK this is an especially interesting concept as NFTs can be non-transferable inside another transferable NFT, dubbed **Soulbound 2.0**. 
+
+Thus, an NFT like a [Kanaria](https://kanaria.rmrk.app) can have non-transferable gems inside it that give it long lasting benefits and bonuses, but cannot be removed, alongside some tradable NFTs as well.
 
 ![Kanaria example image](/img/post_imgs/ntnft.png)
 

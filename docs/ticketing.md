@@ -32,13 +32,13 @@ The gatekeeper's app now creates a new resource - a "ticket stub" image with som
 
 Since _any_ resource takes precedence over _null_, the original ticket resource would be overwritten by this new one, the ticket stub, proving the attendance of this user, and marking the NFT as "used", all in a fully decentralized way - all on protocol.
 
-So what is the benefit of doing it this way?
+### Advantages
 
 1. The users ends up with a really cool looking POA
 2. There is no need for a centralized database of used-up tickets
 3. There is no need for a user to carry around a mobile wallet
 
-What are the downsides?
+### Downsides
 
 1. Since only the collection issuer can issue new resources to NFTs, the software of the gatekeepers would either have to be a hot wallet, or connected to a server issuing these calls which in turn hosts the issuer wallet. We are working on a system that would allow an issuer to set additional resource proposers, solving this problem.
 2. If the internet goes out, you cannot verifiably "tear" people's tickets, and need to trust that they are the real owners. They probably miss out on the "POA" (proof of attendance) aspect of it then too, since they never get the extra resource.

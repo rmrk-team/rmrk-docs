@@ -2,6 +2,8 @@
 title: "Cross-game skins"
 ---
 
+> A use case of [Mixed Media NFTs](/usecases/mixedmedia).
+
 When talking about in-game cosmetic items, a common complaint of game developers and gamers alike
 about implementing NFTs into video games is the inability to make the same file compatible across
 different engines. E.g. a skin file that is mapped to a CSGO model definitely does not work with
