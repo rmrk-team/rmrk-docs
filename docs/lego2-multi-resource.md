@@ -25,7 +25,7 @@ It is best to explain with some examples.
   cosmetics in the same NFT
 - [Backing up NFT metadata](/backups) - metadata redundancy and safety without centralized actors
 - [Ticketing systems](/ticketing) - tickets and ticket-stubs for proof of attendance and access
-- [Mixed Media NFTs](/mixedmedia) - eBooks that are audio and PDF at the same time, songs that are
+- [Mixed Media NFTs](/usecases/mixedmedia) - eBooks that are audio and PDF at the same time, songs that are
   music videos and audio files at the same time, paintings with making-of videos, and more.
 
 ### Equippables and Forward Compatibility
