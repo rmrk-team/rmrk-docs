@@ -23,12 +23,13 @@ module.exports = {
       type: "category",
       label: "Use Cases",
       items: [
-        "cross_game_skins",
-        "ticketing",
-        "revealable",
-        "backups",
+        "usecases/cross_game_skins",
+        "usecases/ticketing",
+        "usecases/revealable",
+        "usecases/backups",
         "usecases/mixedmedia",
         "usecases/evolution",
+        "usecases/charprog",
       ],
     },
     {

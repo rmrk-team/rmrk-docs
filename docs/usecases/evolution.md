@@ -2,6 +2,8 @@
 title: "NFT Evolution"
 ---
 
+This is an example of [Ownership of Experience](/ownershipxp).
+
 With last-gen NFT technology, replacing an NFT to evolve or change it requires either centralized metadata, or a burn-and-mint mechanic.
 
 With RMRK's [Multi-Resource NFTs](/lego2-multi-resource), this is easier.

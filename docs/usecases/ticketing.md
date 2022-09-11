@@ -20,7 +20,7 @@ Again, several approaches are possible. Here we document the recommended one.
 
 A user buys an NFT ticket. The ticket, just by being a RMRK MR NFT, is compatible with ERC721 and thus all marketplaces, but is also enriched with more functionality. While buying, the user provides a custom string, like a special keyword, which is hashed and added as the ticket's attribute. Let's assume this special string is `banana` and the Sha1 hash of it is `250e77f12a5ab6972a0895d290c4792f0a326ea8`.
 
-The null-resource is set to be the ticket itself. The null-resource is the initial resource, the default shown when no other resources are available. Null-resources are typically used for revealable NFTs, and these come in very handy in this scenario.
+The null-resource is set to be the ticket itself. The null-resource is the initial resource, the default shown when no other resources are available. Null-resources are typically used for [revealable NFTs](/usecases/revealable), and these come in very handy in this scenario.
 
 The user shows up at the door of the event, and displays the NFT QR code.
 

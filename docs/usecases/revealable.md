@@ -31,6 +31,8 @@ No, in Multi-Resource NFT systems, each mutation like a resource addition or a r
 is a two-party operation where the issuer _proposes_ the new resource, and the NFT owner _accepts_
 the new resource.
 
+![](../../static/img/post_imgs/mr_03.png)
+
 Now, rather than hit the Opensea "refresh metadata" button, the user only has to click "Accept new
 resource" after inspecting it - and it all happens on chain.
 

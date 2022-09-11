@@ -8,5 +8,8 @@ The FRAME pallets implementation can be found at https://github.com/rmrk-team/rm
 
 To explore each individual [concept](/concepts), please see the applicable pallets linked below:
 
-- coming soon
+- [RMRK core](https://github.com/rmrk-team/rmrk-substrate/tree/main/pallets/rmrk-core)
+- [RMRK soulbound 2.0](https://github.com/rmrk-team/rmrk-substrate/blob/main/pallets/rmrk-core/src/lib.rs)
+- [RMRK equippables](https://github.com/rmrk-team/rmrk-substrate/tree/main/pallets/rmrk-equip)
+- [RMRK marketplace functions](https://github.com/rmrk-team/rmrk-substrate/tree/main/pallets/rmrk-market)
 

@@ -4,10 +4,13 @@ title: EVM
 
 This is one of two versions of the so called "RMRK 3" - an implementation of the specification in the Solidity language, so that it is compatible with EVM blockchains like Moonriver, Moonbeam, Polygon, Ethereum, and others.
 
-The EVM implementation can be found [here](https://github.com/rmrk-team/evm). Usage tutorials are coming soon.
+The EVM implementation can be found [here](https://github.com/rmrk-team/evm/tree/dev/contracts/RMRK). Some usage tutorials can be found [here](https://github.com/rmrk-team/evm-sample-contracts).
 
 To explore each individual [concept](/concepts), please see the applicable EIPs or contracts linked below:
 
 - [Multi-Resource NFTs, standalone EIP](https://github.com/rmrk-team/MultiResourceEIP)
   - Production use cases:
     - [NCVerse](https://neoncrisis.io/my-collection/ncverse)
+- [Equippable](https://github.com/rmrk-team/evm/tree/dev/contracts/RMRK/equippable)
+- [Nesting](https://github.com/rmrk-team/evm/tree/dev/contracts/RMRK/nesting)
+- [Extensions (themes, props, and more)](https://github.com/rmrk-team/evm/tree/dev/contracts/RMRK/extension)

@@ -9,11 +9,13 @@ A resource can be an image, a movie, a PDF file, or even a BASE (a special entit
 on specific contextual information, e.g. load a PDF if loaded into a PDF reader, vs. loading an
 image in a virtual gallery.
 
+![](../static/img/post_imgs/mr_01.png)
+
 A resource is NOT an NFT or a standalone entity you can reference. It is _part_ of an NFT - one of
 several outputs it can have.
 
 Every RMRK NFT has zero or more resources. When it has zero resources, the metadata is "root level".
-Any new resource added to this NFT will override the root metadata, making this NFT _revealable_.
+Any new resource added to this NFT will override the root metadata, making this NFT [revealable](/usecases/revealable).
 
 ## Examples
 
@@ -39,6 +41,8 @@ As an example, a pickaxe compatible with a
 [Skybreach](https://skybreach.app) would have a pixel-drawn resource compatible with the Skybreach
 game engine.
 
+![](../static/img/post_imgs/mr_02.png)
+
 Should a new 3D game come out later on, this same NFT can be made compatible with it easily. The
 issuer would add a new 3D resource to it, compatible with the new game's engine. Every owner
 accepting this new resource in their NFT would automatically have a more valuable NFT on their
@@ -53,6 +57,8 @@ has.
 
 Adding a new resource into a multi-resource NFT requires the consent of both the issuer and the
 NFT's owner.
+
+![](../static/img/post_imgs/mr_03.png)
 
 Specifically, only the issuer of the collection can propose a new resource, and only the owner can
 accept it. If the issuer and owner are the same, no accept step is necessary.

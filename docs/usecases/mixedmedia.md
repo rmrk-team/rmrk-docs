@@ -2,6 +2,8 @@
 title: "Mixed Media NFTs"
 ---
 
+![](../../static/img/post_imgs/mr_01.png)
+
 With last-gen NFT technology, buying a music video only gets you the music video. If the artist
 decides to drop an audio-only version of the song later, all they can do is make a new airdrop.
 
@@ -16,7 +18,7 @@ An eBook NFT can have one resource that is a PDF file, and one that is an audio 
 
 Once the NFT is loaded into Audible, it just plays - the player knows what media file it needs. If it is loaded into Kindle, the reader knows it's expecting a PDF, so it pull that from this NFT.
 
-If a new version of the audibook comes out, it is easy to replace the audio resource in a decentralized way rather than make a new airdrop. Same for the PDF version.
+If a new version of the audiobook comes out, it is easy to replace the audio resource in a decentralized way rather than make a new airdrop. Same for the PDF version.
 
 ### Music Video / Audio
 
@@ -40,4 +42,4 @@ One such example is the Kanaria project. For example, the [Super Founder Bird 01
 
 ### Cross-game skin files
 
-This is explained in detail on [this page](/cross_game_skins).
+This is explained in detail on [this page](/usecases/cross_game_skins).

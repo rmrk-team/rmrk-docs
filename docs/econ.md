@@ -2,10 +2,12 @@
 title: "Global Item Economy"
 ---
 
+![](../static/img/post_imgs/econ_02.png)
+
 Because all RMRK [nested](/lego1-nested) and [equippable](/lego25-equippable) NFTs are mutually
-compatible and can leverage [multi resources](/lego2-multi-resource) to leverage different media and
+compatible and can leverage [multi resources](/lego2-multi-resource) to use different media and
 art styles for this cross-collection compatibility, the concept of a _Global Item Economy_
-(GIE)appears.
+(GIE) appears.
 
 This also creates another concept: NFT DEGEN Score (Demand for Globally Equippable NFTs), or in
 other words, dynamic rarity.
@@ -21,6 +23,8 @@ The gold chain NFTs would be given a [new resource](/lego2-multi-resource) which
 the style of the robot project, and become equippable by the 10000 Robots.
 
 Now, the rarity of the gold chain is no longer 5 / 10000, but 5 / 20000.
+
+![](../static/img/post_imgs/econ_01.png)
 
 Therefore, the demand for this NFT went up, because it is now usable in twice as many other NFTs.
 

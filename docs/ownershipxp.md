@@ -2,7 +2,9 @@
 title: Ownership of Experience
 ---
 
-In current metaverse projects, most experience is stored on a centralized server: your level progress, skills, even resources gathered. 
+![](../static/img/post_imgs/xp_01.png)
+
+In current metaverse projects, most experience is stored on a centralized server: your level progress, skills, even resources gathered. In most cases, even projects advertising equippables use just a centralize database to pretend it's NFT equipment, misleading their community.
 
 If this server goes down - as it inevitably will due to expensive centralized infrastructure and vampire attacks from other projects - so does the experience.
 
@@ -12,4 +14,4 @@ Your character can grow and level up over time by collecting [non-transferable](
 
 This allows an NFT to grow, evolve, and keep growing in value in a decentralized way, to the point of being recognizable as valuable and evolved by any future game or metaverse project.
 
-With RMRK, NFTs become generational wealth.
+With RMRK, NFTs become generational wealth through [Evolution](/usecases/evolution) or [Character Progression Systems](/usecases/charprog).

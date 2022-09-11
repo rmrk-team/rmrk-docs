@@ -8,16 +8,18 @@ user or developer.
 Please refer to the individual sub-sections of the docs for more information on specific versions,
 products, and tools RMRK offers, or read below to get familiar with RMRK in general.
 
-> Note that these docs are geared towards technical users and those who would like to get to know RMRK in depth. An easy-to-consume non-technical knowledgebase is published [here](https://coda.io/@rmrk/faq).
+> Note that these docs are geared towards technical users and those who would like to get to know
+> RMRK in depth. An easy-to-consume non-technical knowledgebase is published
+> [here](https://rmrk.gitbook.io/rmrk-faqs/).
 
 ## What is RMRK?
 
 RMRK is a set of NFT standards which compose several "NFT 2.0 lego" primitives. Putting these legos
-together allows a user to create NFT systems of arbitrary complexity. 
+together allows a user to create NFT systems of arbitrary complexity.
 
-> All the legos and their related concepts are described [here](/concepts).
+If you want to dive right in, see the [concepts](/concepts) page.
 
-The RMRK standard exists in three formats:
+Broadly, the RMRK standard exists in three formats:
 
 - [Kusama implementation](/rmrk2)
 - [EVM implementation](/evm)
@@ -45,10 +47,13 @@ available to everyone.
 
 ## How do I use RMRK?
 
-As a user or author, you can mint on the [Singular UI](https://singular.app). A self-help knowledgebase is set up [here](https://coda.io/@rmrk/faq), and our [YouTube channel](https://url.rmrk.app/yt) has various tutorials on how to use the app.
+As a user or author, you can mint on the [Singular UI](https://singular.app). A self-help
+knowledgebase is set up [here](https://coda.io/@rmrk/faq), and
+our [YouTube channel](https://url.rmrk.app/yt) has various tutorials on how to use the app.
 
-As a developer who wants to build their own wallet or UI for RMRK, you probably want to [learn the concepts first](/concepts), then refer to the [Specs](https://github.com/rmrk-team/rmrk-spec), or if you'd like to use existing components we've
-built, the [Tools](https://github.com/rmrk-team/rmrk-tools).
+As a developer who wants to build their own wallet or UI for RMRK, you probably want to
+[learn the concepts first](/concepts), then refer to the individual tech stack you are interested in
+(Kusama, EVM, pallets (Rust)).
 
 ## RMRK-based projects
 
@@ -59,8 +64,17 @@ built, the [Tools](https://github.com/rmrk-team/rmrk-tools).
 - [Kanaria](https://kanaria.rmrk.app): NFT birds that can wear other standalone NFTs, equip and
   unequip items, and have multiple resources - the first production demo of RMRK 2.0
 
+### Unofficial
+
+- [NCVerse](https://neoncrisis.io/ncverse/back-alley): Neon Crisis, an NFT project on Moonriver and
+  the first user of RMRK tech on an EVM chain.
+- [Evrl00t](https://game.evrloot.com/game): an RPG game built on Kusama and the Kusama version of
+  RMRK.
+
 ## The RMRK Token
 
-The RMRK token is the protocol's official token. It is not required to use the protocol, but can
-augment the experience. For more information about the $RMRK token, please see
+The [RMRK token](https://coinmarketcap.com/currencies/rmrk/) is the protocol's official token. It is
+not required to use the protocol, but can augment the experience, and is required as a deposit for
+Sybil resistance and spam resistance when creating collections that get auto-added to Singular from
+the various supported chains. For more information about the $RMRK token, please see
 [this page](https://singular.app/tokens).

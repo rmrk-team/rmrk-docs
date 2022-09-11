@@ -2,7 +2,7 @@
 title: "NFTs as DAOs"
 ---
 
-Being able to turn an NFT into a DAO refers to the ability of RMRK NFTs to be fractionalized for a deposit in RMRK tokens.
+Being able to turn an NFT into a DAO refers to the ability of RMRK NFTs to be fractionalized for a deposit in [RMRK tokens](https://singular.app/tokens).
 
 There share tokens can then be used to collectively issue commands to an NFT. This video demonstrates one of the potential use cases:
 

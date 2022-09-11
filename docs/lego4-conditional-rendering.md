@@ -6,6 +6,8 @@ Conditional rendering uses [jsonlogic](https://jsonlogic.com/) to define client-
 
 For example, an NFT depicting an image of a moon might change to a halfmoon with a rocket landing on it if it gets 50 🌓 and 30 🚀 emojis on it. 
 
+![](../static/img/post_imgs/cr_01.png)
+
 An NFT of an apple might rot after a certain block, turning into an image of a rotten apple, or if consumed in time by means of 🍴 emoji, it becomes just an apple core.
 
 An NFT image of a bicycle can show signs of deterioration and dilapidation if it was sold more than, say, 50 times.

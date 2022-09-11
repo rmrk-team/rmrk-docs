@@ -4,6 +4,8 @@ title: "On-chain emotes"
 
 RMRK supports the ability to "react" to any NFT.
 
+![](../static/img/post_imgs/emote.png)
+
 Under the hood, unicodes are applied to NFT IDs in a separate record.
 
 Reactions are switches, meaning sending 👍 when you already sent a 👍 will remove it.
@@ -19,6 +21,6 @@ Emotes are a key part of [conditional rendering](/lego4-conditional-rendering).
 The implementations below lead directly to code. For examples of how to utilize them to mint your own NFTs, please refer to the sidebar section for each implementation subtype.
 
 - [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/interactions/emote.md)
+  - Implemented in production on [Singular](https://singular.app)
 - EVM (research phase)
 - Pallets (research phase)
-- Rollups (research phase)

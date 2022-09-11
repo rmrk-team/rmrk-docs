@@ -2,6 +2,8 @@
 title: Provable Digital Scarcity
 ---
 
+![](../static/img/post_imgs/scarce_01.png)
+
 Most NFT projects today are only mock-scarce. Sure, there is a limited supply of them, but the utility of these NFTs (if any) is uncapped. 
 
 As an example, you can log into 500 different instances of Sandbox with the same wallet using the same NFT. You can equip the same hat onto 500 different in-game avatars at the same time, because its visual representation is just a client-side thing. The platforms and projects are not at all Sybil-resistant, and the NFTs not scarce.
