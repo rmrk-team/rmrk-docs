@@ -16,8 +16,8 @@ One of the two remarks at the end is invalid because Alice does not have 6 apple
 
 If these remarks are not looked at in order and formed into one, single **consolidated** state, we
 cannot be sure the operations are legitimate. Because the remarks can happen on different blocks
-(months apart even), fetching them and then consolidating them takes a lot of time you don't have an
-already synced node, and a pre-consolidated dump which you could simply append to.
+(months apart even), fetching them and then consolidating them takes a lot of time if you don't have
+an already synced node, and a pre-consolidated dump which you could simply append to.
 
 Thus, there are several ways to get up to date with RMRK state.
 
@@ -60,8 +60,8 @@ Install RMRK tools. You need a modern version of NodeJS and Yarn. We recommend u
 yarn install rmrk-tools
 ```
 
-By default, RMRK Tools work with [RMRK 2](/rmrk2.md). If you're working with [RMRK 1](/rmrk1.md), switch the branch to
-`rmrk-one`:
+By default, RMRK Tools work with [RMRK 2](/rmrk2.md). If you're working with [RMRK 1](/rmrk1.md),
+switch the branch to `rmrk-one`:
 
 ```bash
 git fetch && git branch rmrk-one
