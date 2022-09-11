@@ -21,12 +21,12 @@ Any new resource added to this NFT will override the root metadata, making this 
 
 It is best to explain with some examples.
 
-- [Revealable NFTs](/revealable) - mint identical NFTs and reveal them as unique later, all on chain
+- [Revealable NFTs](/usecases/revealable) - mint identical NFTs and reveal them as unique later, all on chain
   without centralizing metadata
-- [Cross-game skin files](/cross_game_skins) - supporting different game engines for cross-game
+- [Cross-game skin files](/usecases/cross_game_skins) - supporting different game engines for cross-game
   cosmetics in the same NFT
-- [Backing up NFT metadata](/backups) - metadata redundancy and safety without centralized actors
-- [Ticketing systems](/ticketing) - tickets and ticket-stubs for proof of attendance and access
+- [Backing up NFT metadata](/usecases/backups) - metadata redundancy and safety without centralized actors
+- [Ticketing systems](/usecases/ticketing) - tickets and ticket-stubs for proof of attendance and access
 - [Mixed Media NFTs](/usecases/mixedmedia) - eBooks that are audio and PDF at the same time, songs that are
   music videos and audio files at the same time, paintings with making-of videos, and more.
 
