@@ -30,6 +30,9 @@ module.exports = {
         "usecases/mixedmedia",
         "usecases/evolution",
         "usecases/charprog",
+        "usecases/museums",
+        "usecases/puzzles",
+        "usecases/collabmusic",
       ],
     },
     {
