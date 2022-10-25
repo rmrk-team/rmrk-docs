@@ -27,7 +27,7 @@ Broadly, the RMRK standard exists in three formats:
 
 One of the best short introductions into RMRK is the following video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YX5sTLtqCa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Qwpllwpkdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What is RMRK's history?
 
