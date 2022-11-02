@@ -12,7 +12,7 @@ NFTs today are extremely fragile. This is not very web3.
 
 There is a better way: use RMRK's Multi-Resource NFT tech to back up and NFTs metadata _on the NFT itself_.
 
-<iframe src="https://giphy.com/embed/eePSFNBFv2W9owZ4Sh" width="322" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eePSFNBFv2W9owZ4Sh">via GIPHY</a></p>
+<img width="326" alt="image" src="https://user-images.githubusercontent.com/1027871/199571248-8333a077-df49-4fd4-8c89-1b7b08cc255c.png">
 
 A _resource_ is one "output". On a song, this will be an audio file. On an eBook, this will be a PDF. And on a monkey JPEG, this will be the monkey JPEG.
 
