@@ -13,7 +13,6 @@ NFTs today are extremely fragile. This is not very web3.
 There is a better way: use RMRK's Multi-Resource NFT tech to back up and NFTs metadata _on the NFT itself_.
 
 <img width="326" alt="image" src="https://user-images.githubusercontent.com/1027871/199571248-8333a077-df49-4fd4-8c89-1b7b08cc255c.png">
-
 A _resource_ is one "output". On a song, this will be an audio file. On an eBook, this will be a PDF. And on a monkey JPEG, this will be the monkey JPEG.
 
 Assuming we have an NFT of a monkey JPEG, and this NFT points to https://rugpull.com/monkeyjpeg.com. If rugpull.com goes offline, so does our monkey pic!
@@ -36,3 +35,4 @@ Once added to the NFT, we now have four identical sets of metadata linked on 4 d
 
 1. Since only the collection issuer can issue new resources to NFTs, the software of the gatekeepers would either have to be a hot wallet, or connected to a server issuing these calls which in turn hosts the issuer wallet. We are working on a system that would allow an issuer to set additional resource proposers, solving this problem.
 2. Changing the metadata, for whatever reason, would require replacing all four resources instead of just one previously, so many more transactions needed across a large collection.
+
