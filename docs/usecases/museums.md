@@ -2,6 +2,8 @@
 title: "NFTs 2.0 in galleries and museums"
 ---
 
+![](../../static/img/post_imgs/museum1.png)
+
 In their current state, museums and galleries have limited use for NFTs. The occasional
 [ticket](ticketing.md) or simple digital representation of a real life exhibit are just about all
 the options at their disposal, so the lack of adoption by such institutions does not come as a
@@ -17,6 +19,8 @@ contain:
 2. A short movie about the history of the painting, where it's been and where it came from
 3. A multi-language audio-track for the gallery tour around this particular painting
 4. A museum-shop voucher for a Mona Lisa high quality poster
+
+![](../../static/img/post_imgs/museum2.png)
 
 These are not separate NFTs - these are all alternative resources of one NFT. The NFT is made into a
 rich multi-media experience and is given true utility, versus just being a digital copy of an analog

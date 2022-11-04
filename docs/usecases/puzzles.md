@@ -2,6 +2,8 @@
 title: "Puzzles"
 ---
 
+![](../../static/img/post_imgs/puzzle.png)
+
 Using [equipping logic](/lego25-equippable) and [multi resource NFTs](/lego2-multi-resource), one
 could create a puzzle NFT with specific slots for puzzle-pieces.
 
