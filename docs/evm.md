@@ -8,7 +8,8 @@ The EVM implementation can be found [here](https://github.com/rmrk-team/evm/tree
 
 To explore each individual [concept](/concepts), please see the applicable EIPs or contracts linked below:
 
-- [Multi-Resource NFTs, standalone EIP](https://github.com/rmrk-team/MultiResourceEIP)
+- [Multi-Asset NFTs, standalone EIP](https://github.com/rmrk-team/MultiResourceEIP)
+  - To learn more about our EVM implementation of the MultiAsset RMRK lego, you can refer to **[EIP-5773: Context-Dependent Multi-Asset Tokens](https://eips.ethereum.org/EIPS/eip-5773)** that we published
   - Production use cases:
     - [NCVerse](https://neoncrisis.io/my-collection/ncverse)
 - [Equippable](https://github.com/rmrk-team/evm/tree/dev/contracts/RMRK/equippable)
