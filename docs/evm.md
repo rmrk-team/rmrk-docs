@@ -13,5 +13,5 @@ To explore each individual [concept](/concepts), please see the applicable EIPs 
   - Production use cases:
     - [NCVerse](https://neoncrisis.io/my-collection/ncverse)
 - [Equippable](https://github.com/rmrk-team/evm/tree/dev/contracts/RMRK/equippable)
-- [Nesting](https://github.com/rmrk-team/evm/tree/dev/contracts/RMRK/nesting)
+- [Nestable NFTs, EIP-6059](https://eips.ethereum.org/EIPS/eip-6059)
 - [Extensions (themes, props, and more)](https://github.com/rmrk-team/evm/tree/dev/contracts/RMRK/extension)
