@@ -7,9 +7,9 @@ make up complex _use cases_ and enable certain _concepts_.
 
 ## RMRK Legos
 
-- [Nested NFTs](/lego1-nested)
+- [Nestable NFTs](/lego1-nested)
   - The ability for any NFT to contain other RMRK NFT
-- [Multi-resource NFTs](/lego2-multi-resource)
+- [Multi-asset NFTs](/lego2-multi-resource)
   - The ability for an NFT to vary its output depending on the context it is being loaded in
 - [Equippable NFTs](/lego25-equippable)
   - The ability for NFTs to equip owned NFTs in order to gain extra utility or change their
@@ -24,7 +24,7 @@ make up complex _use cases_ and enable certain _concepts_.
 
 ## RMRK Concepts
 
-- [Non-transferable NFTs](/nontransferable)
+- [Non-transferable NFTs - Soulbound 2.0](/nontransferable)
   - The ability for NFTs to be **bound** to another NFT or to an account address
 - [Provable Digital Scarcity](/scarcity)
   - The concept that an NFT is only available in one place at one time, enforced by the blockchain's
@@ -41,7 +41,7 @@ The Concepts are put to use in the Use Cases:
 - [Cross-game skins](/usecases/cross_game_skins)
   - Defeating the previously valid anti-NFT argument from the game development community
 - [Ticketing](/usecases/ticketing)
-  - Using multi-resource NFTs for fully decentralized ticketing solutions for events etc.
+  - Using multi-asset NFTs for fully decentralized ticketing solutions for events etc.
 - [Revealable NFTs](/usecases/revealable)
   - "Hatching" NFTs after a sale in a fully decentralized way, without relying on a central metadata server
 - [Metadata Backup](/usecases/backups)

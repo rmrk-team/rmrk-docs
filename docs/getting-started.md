@@ -62,7 +62,7 @@ As a developer who wants to build their own wallet or UI for RMRK, you probably 
 - [Singular](https://singular.app): the official NFT marketplace for RMRK NFTs: create and sell
   advanced NFTs
 - [Kanaria](https://kanaria.rmrk.app): NFT birds that can wear other standalone NFTs, equip and
-  unequip items, and have multiple resources - the first production demo of RMRK 2.0
+  unequip items, and have multiple assets - the first production demo of RMRK's NFT 2.0
 
 ### Unofficial
 

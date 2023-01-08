@@ -2,8 +2,9 @@
 title: RMRK 1.0 (deprecated)
 ---
 
-Because Kusama - where RMRK originated - has no smart contracts or programmability, RMRK 1.0 is based on the `system.remark` utility function of many [Substrate](https://substrate.dev)
-chains, [Kusama](https://kusama.network) included.
+Because Kusama - where RMRK originated - has no smart contracts or programmability, RMRK 1.0 is
+based on the `system.remark` utility function of many [Substrate](https://substrate.dev) chains,
+[Kusama](https://kusama.network) included.
 
 Remarks are like notes, like graffiti on the blocks. The information is not stored in the chain's
 trie, but along blocks as input. Remarks are no-effect extrinsics (external inputs), which means
@@ -13,7 +14,11 @@ records.
 By interpreting this data in a special way, tools can understand information in different ways than
 an outside observer might.
 
-As an analogy, a blockchain is a ship with each block being a shipping container. Inside it are transactions. Remarks do not put content into the containers, but graffiti the side of the container. The message still gets sent across but does not affect the content of the container. On arrival, a special language interpreter (the RMRK specification) is who interprets these graffiti to form a coherent picture of the state of NFTs.
+As an analogy, a blockchain is a ship with each block being a shipping container. Inside it are
+transactions. Remarks do not put content into the containers, but graffiti the side of the
+container. The message still gets sent across but does not affect the content of the container. On
+arrival, a special language interpreter (the RMRK specification) is who interprets these graffiti to
+form a coherent picture of the state of NFTs.
 
 The **rules** for how to interpret this are called specifications or standards, and RMRK is one such
 set of rules. So, RMRK deals with applying rules to _remarks_, which is what we call blockchain
@@ -56,4 +61,5 @@ humanized, clarified, codified, and exemplified in this documentation.
 In many ways, RMRK 1.0 is like any NFT standard you might be used to on Ethereum - a simple way to
 store references to multimedia. We augmented this with on-chain [emotes](/lego3-emote.md).
 
-RMRK 1.0 has been deprecated since [RMRK 2](/rmrk2.md) has been out. Old RMRK1 NFTs can be seen on the [legacy version of Singular](https://singular.rmrk.app).
+RMRK 1.0 has been deprecated since [RMRK 2](/rmrk2.md) has been out. Old RMRK1 NFTs can be seen on
+the [legacy version of Singular](https://singular.rmrk.app).

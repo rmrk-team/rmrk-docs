@@ -1,21 +1,21 @@
 ---
-title: "Multi-resource NFTs"
+title: "Multi-asset (Multi-resource) NFTs"
 ---
 
-A _resource_ is a type of output for an NFT: usually a media file.
+An _asset_ (previously known as _resource_) is a type of output for an NFT: usually a media file.
 
-A resource can be an image, a movie, a PDF file, or even a BASE (a special entity - see
-[here](/lego25-equippable)). A multi-resource NFT is one that can output a different resource based
+An asset can be an image, a movie, a PDF file, or even a CATALOG (a special entity - see
+[here](/lego25-equippable)). A multi-asset NFT is one that can output a different asset based
 on specific contextual information, e.g. load a PDF if loaded into a PDF reader, vs. loading an
-image in a virtual gallery.
+image in a virtual gallery, but both the PDF and the image are in the same NFT.
 
 ![](../static/img/post_imgs/mr_01.png)
 
-A resource is NOT an NFT or a standalone entity you can reference. It is _part_ of an NFT - one of
+An asset is NOT an NFT or a standalone entity you can reference. It is _part_ of an NFT - one of
 several outputs it can have.
 
-Every RMRK NFT has zero or more resources. When it has zero resources, the metadata is "root level".
-Any new resource added to this NFT will override the root metadata, making this NFT [revealable](/usecases/revealable).
+Every RMRK NFT has zero or more assets. When it has zero, the metadata is "root level".
+Any new asset added to this NFT will override the root metadata, making this NFT [revealable](/usecases/revealable).
 
 ## Examples
 
@@ -32,20 +32,20 @@ It is best to explain with some examples.
 
 ### Equippables and Forward Compatibility
 
-When using the [Nested](/lego1-nested) and [Equippable](/lego25-equippable) NFTs, a multi-resource
+When using the [Nestable](/lego1-nested) and [Equippable](/lego25-equippable) NFTs, a multi-asset
 NFT can be made compatible with collections coming out in the future, adding utility to an NFT
 project that might otherwise die from lack of community interest post-launch.
 
 As an example, a pickaxe compatible with a
 [Chunky](https://rmrk.gitbook.io/kanaria-skybreach/fundamentals/skybreach-avatars/chunkies) in
-[Skybreach](https://skybreach.app) would have a pixel-drawn resource compatible with the Skybreach
+[Skybreach](https://skybreach.app) would have a pixel-drawn asset compatible with the Skybreach
 game engine.
 
 ![](../static/img/post_imgs/mr_02.png)
 
 Should a new 3D game come out later on, this same NFT can be made compatible with it easily. The
-issuer would add a new 3D resource to it, compatible with the new game's engine. Every owner
-accepting this new resource in their NFT would automatically have a more valuable NFT on their
+issuer would add a new 3D asset to it, compatible with the new game's engine. Every owner
+accepting this new asset in their NFT would automatically have a more valuable NFT on their
 hands - no unrelated airdrops needed, no token spam in owner wallets. Just an NFT that can be and do
 more.
 
@@ -55,19 +55,19 @@ has.
 
 ## Proposing, Accepting, Replacing
 
-Adding a new resource into a multi-resource NFT requires the consent of both the issuer and the
+Adding a new asset into a multi-asset NFT requires the consent of both the issuer and the
 NFT's owner.
 
 ![](../static/img/post_imgs/mr_03.png)
 
-Specifically, only the issuer of the collection can propose a new resource, and only the owner can
+Specifically, only the issuer of the collection can propose a new asset, and only the owner can
 accept it. If the issuer and owner are the same, no accept step is necessary.
 
-An owner of an NFT cannot add new resources onto their own NFT. This prevents mock-value from being
+An owner of an NFT cannot add new assets onto their own NFT. This prevents mock-value from being
 added to an NFT.
 
-An issuer cannot add new resources to an NFT without the owner's approval. This approval can be made
-ahead of time, or it can be made on-demand as a new resource is proposed.
+An issuer cannot add new assets to an NFT without the owner's approval. This approval can be made
+ahead of time, or it can be made on-demand as a new asset is proposed.
 
 ## Implementations
 
@@ -75,7 +75,7 @@ The implementations below lead directly to code. For examples of how to utilize 
 own NFTs, please refer to the sidebar section for each implementation subtype.
 
 - [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/entities/nft.md#resources-and-resource)
-- [EVM](https://github.com/rmrk-team/MultiResourceEIP)
+- [EVM: EIP 5773](https://eips.ethereum.org/EIPS/eip-5773)
   - In production examples:
     - [NCVerse](https://neoncrisis.io/my-collection/ncverse)
 - [Pallets](https://github.com/rmrk-team/rmrk-substrate/blob/main/pallets/rmrk-core/src/lib.rs)

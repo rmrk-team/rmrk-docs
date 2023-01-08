@@ -4,8 +4,8 @@ title: "Collaborative Music NFTs"
 
 ![](../../static/img/post_imgs/music.png)
 
-Using [equipping logic](/lego25-equippable) and [multi resource NFTs](/lego2-multi-resource), one
-could create a collaborative musical composition, a form of [NFT 2.0 puzzles](/usecases/puzzles).
+Using [equipping logic](/lego25-equippable) and [multi asset NFTs](/lego2-multi-resource), one could
+create a collaborative musical composition, a form of [NFT 2.0 puzzles](/usecases/puzzles).
 
 The primary NFT could be an empty "music sheet" with slots for:
 

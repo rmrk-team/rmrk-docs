@@ -17,9 +17,3 @@ this way.
 
 As an introduction, [this coding workshop](https://crowdcast.io/e/buidl) is a good foray into RMRK
 2.0 composability, and its accompanying code repository can be found [here](https://github.com/rmrk-team/rmrk2-examples). 
-
-## Tutorials
-
-- Minting Simple NFTs (coming soon)
-- Minting Multi Resource NFTs (coming soon)
-- Minting Equippable Collections (coming soon)
