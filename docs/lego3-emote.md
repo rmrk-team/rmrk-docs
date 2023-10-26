@@ -16,6 +16,8 @@ During a transfer, all reactions travel with an NFT. The reactions are not NFTs 
 
 Emotes are a key part of [conditional rendering](/lego4-conditional-rendering).
 
+You can try it using our [Emotes.app](https://emotes.app/).
+
 ## Implementations
 
 The implementations below lead directly to code. For examples of how to utilize them to mint your own NFTs, please refer to the sidebar section for each implementation subtype.
