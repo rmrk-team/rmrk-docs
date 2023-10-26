@@ -1,8 +1,8 @@
 ---
-title: "RMRK NFT 2.0 Concepts"
+title: "RMRK Modular NFTs Concepts"
 ---
 
-The RMRK NFT 2.0 Concepts are divided into RMRK legos and RMRK concepts. Legos are primitives that
+The RMRK Modular NFTs Concepts are divided into RMRK legos and RMRK concepts. Legos are primitives that
 make up complex _use cases_ and enable certain _concepts_.
 
 ## RMRK Legos
