@@ -71,8 +71,6 @@ As a developer who wants to build their own wallet or UI for RMRK, you probably 
 
 ### Unofficial
 
-- [NCVerse](https://neoncrisis.io/ncverse/back-alley): Neon Crisis, an NFT project on Moonriver and
-  the first user of RMRK tech on an EVM chain.
 - [Evrl00t](https://game.evrloot.com/game): an RPG game built on Kusama and the Kusama version of
   RMRK.
 
