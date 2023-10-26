@@ -14,7 +14,7 @@ products, and tools RMRK offers, or read below to get familiar with RMRK in gene
 
 ## What is RMRK?
 
-RMRK is a set of NFT standards which compose several "NFT 2.0 lego" primitives. Putting these legos
+RMRK is a set of NFT standards which compose several "Modular NFT" primitives. Putting these "legos"
 together allows a user to create NFT systems of arbitrary complexity.
 
 If you want to dive right in, see the [concepts](/concepts) page.
@@ -37,7 +37,7 @@ Foundation's technical educator at the time. Originally a hobby project, RMRK ev
 
 Learn more about some of the team on [the homepage](https://rmrk.app).
 
-The RMRK team is the custodian and main developer of the set of open source NFT 2.0 standards known
+The RMRK team is the custodian and main developer of the set of open source Modular NFT standards known
 as _RMRK standards_ and of the [Skybreach metaverse](https://skybreach.app), and a for-profit
 company building products on top of this infrastructure.
 
@@ -62,7 +62,12 @@ As a developer who wants to build their own wallet or UI for RMRK, you probably 
 - [Singular](https://singular.app): the official NFT marketplace for RMRK NFTs: create and sell
   advanced NFTs
 - [Kanaria](https://kanaria.rmrk.app): NFT birds that can wear other standalone NFTs, equip and
-  unequip items, and have multiple assets - the first production demo of RMRK's NFT 2.0
+  unequip items, and have multiple assets - the first production demo of Modular RMRK's NFTs
+- [Mintaur](https://mintaur.app): Mint modern Modular NFTs on demand. 
+- [Upgradooor](https://upgradooor.app): Amplify your regular ERC-721 NFTs by converting them into Modular RMRK NFTs
+- [Emotes](https://emotes.app): React to any NFTs using the RMRK Modular NFT Emotes Standard
+- [Wizard](https://wizard.rmrk.dev/): Create your own RMRK custom contracts
+
 
 ### Unofficial
 
