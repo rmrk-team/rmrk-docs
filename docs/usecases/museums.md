@@ -1,5 +1,5 @@
 ---
-title: "NFTs 2.0 in galleries and museums"
+title: "Modular NFTs in galleries and museums"
 ---
 
 ![](../../static/img/post_imgs/museum1.png)
@@ -9,7 +9,7 @@ In their current state, museums and galleries have limited use for NFTs. The occ
 the options at their disposal, so the lack of adoption by such institutions does not come as a
 surprise.
 
-With NFTs 2.0, specifically [multi-asset NFTs](/lego2-multi-resource.md), we finally have meaningful
+With Modular NFTs, specifically [multi-asset NFTs](/lego2-multi-resource.md), we finally have meaningful
 utility to offer them.
 
 Let's assume we have an exhibit called Mona Lisa. A museum could mint NFTs which simultaneously
@@ -32,5 +32,5 @@ secondary-market value, along with earning the museum or gallery royalties, beca
 is gamified - visitors now race to collect all the puzzle pieces to compose a master puzzle NFT and
 win an additional prize like, for example, an exclusive private viewing of an upcoming exhibition.
 
-All this is natively supported by the RMRK standards and available today using an NFT 2.0
+All this is natively supported by the RMRK standards and available today using a Modular NFT
 marketplace such as [Singular](https://singular.app).
