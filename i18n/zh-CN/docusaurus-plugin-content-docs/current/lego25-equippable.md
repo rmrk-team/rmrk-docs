@@ -63,7 +63,7 @@ Base是“组件”的列表，它们的组合可用于形成单个 NFT。
             ],
             "pending": false,
             "themeId": "bandicoot",
-            "thumb": "ipfs://ipfs/QmR3rK1P4n24PPqvfjGYNXWixPJpyBKTV6rYzAS2TYHLpT"
+            "thumb": "ipfs://QmR3rK1P4n24PPqvfjGYNXWixPJpyBKTV6rYzAS2TYHLpT"
         }
     ],
 ```
@@ -90,7 +90,7 @@ Base是“组件”的列表，它们的组合可用于形成单个 NFT。
   {
     type: 'fixed',
     id: 'var1_head',
-    src: 'ipfs://ipfs/QmZy8eRLhToqPk5154SJkTJfPD8AMnPAjBi6w1S61yNPrR/var1/var1_head.svg',
+    src: 'ipfs://QmZy8eRLhToqPk5154SJkTJfPD8AMnPAjBi6w1S61yNPrR/var1/var1_head.svg',
     z: 9,
   },
   ...
@@ -181,7 +181,7 @@ themes: {
             "parts": [...],
             "pending": false,
             "themeId": "sunkissed", // <--- THIS HERE
-            "thumb": "ipfs://ipfs/QmR3rK1P4n24PPqvfjGYNXWixPJpyBKTV6rYzAS2TYHLpT"
+            "thumb": "ipfs://QmR3rK1P4n24PPqvfjGYNXWixPJpyBKTV6rYzAS2TYHLpT"
         }
     ],
 ```

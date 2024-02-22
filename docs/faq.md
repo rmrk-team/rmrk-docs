@@ -12,7 +12,7 @@ for the same input. Changing even a single letter in the original content produc
 different hash.
 
 These hashes are then turned into content addresses like so:
-`ipfs://ipfs/QmZy8eRLhToqPk5154SJkTJfPD8AMnPAjBi6w1S61yNPrR` which a browser or
+`ipfs://QmZy8eRLhToqPk5154SJkTJfPD8AMnPAjBi6w1S61yNPrR` which a browser or
 [IPFS gateway](https://docs.ipfs.io/concepts/ipfs-gateway/) can access.
 
 Many machines around the world run the IPFS protocol and advertise which content hashes they host,

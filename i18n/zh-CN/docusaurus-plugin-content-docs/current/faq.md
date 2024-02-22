@@ -8,7 +8,7 @@ title: "FAQ: 常见问题解答"
 
 IPFS或星际文件系统使用“内容散列”。这意味着一段内容通过散列算法进行处理，这是一种单向数学函数，对于相同的输入总是产生相同的输出。即使更改原始内容中的单个字母也会产生完全不同的哈希值。
 
-然后将这些哈希转换为如下内容地址：`ipfs://ipfs/QmZy8eRLhToqPk5154SJkTJfPD8AMnPAjBi6w1S61yNPrR`，浏览器或[IPFS网关](https://docs.ipfs.io/concepts/ipfs-gateway/)可以访问。
+然后将这些哈希转换为如下内容地址：`ipfs://QmZy8eRLhToqPk5154SJkTJfPD8AMnPAjBi6w1S61yNPrR`，浏览器或[IPFS网关](https://docs.ipfs.io/concepts/ipfs-gateway/)可以访问。
 
 世界各地的许多机器都运行IPFS协议，并公布它们托管的内容哈希值，以便在需要找到某个内容时，可以为其建立路径。
 

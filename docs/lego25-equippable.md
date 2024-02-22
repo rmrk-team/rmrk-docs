@@ -82,7 +82,7 @@ This new asset defines a catalog and some picked parts, like so:
             ],
             "pending": false,
             "themeId": "bandicoot",
-            "thumb": "ipfs://ipfs/QmR3rK1P4n24PPqvfjGYNXWixPJpyBKTV6rYzAS2TYHLpT"
+            "thumb": "ipfs://QmR3rK1P4n24PPqvfjGYNXWixPJpyBKTV6rYzAS2TYHLpT"
         }
     ],
 ```
@@ -118,7 +118,7 @@ so:
   {
     type: 'fixed',
     id: 'var1_head',
-    src: 'ipfs://ipfs/QmZy8eRLhToqPk5154SJkTJfPD8AMnPAjBi6w1S61yNPrR/var1/var1_head.svg',
+    src: 'ipfs://QmZy8eRLhToqPk5154SJkTJfPD8AMnPAjBi6w1S61yNPrR/var1/var1_head.svg',
     z: 9,
   },
   ...
@@ -251,7 +251,7 @@ Finally, the theme is selected as part of the asset being added to the NFT:
             "parts": [...],
             "pending": false,
             "themeId": "sunkissed", // <--- THIS HERE
-            "thumb": "ipfs://ipfs/QmR3rK1P4n24PPqvfjGYNXWixPJpyBKTV6rYzAS2TYHLpT"
+            "thumb": "ipfs://QmR3rK1P4n24PPqvfjGYNXWixPJpyBKTV6rYzAS2TYHLpT"
         }
     ],
 ```

@@ -29,7 +29,7 @@ If rugpull.com goes offline, so does our monkey pic!
 But this is only one asset in an advanced system. We can also propose new assets to this NFT:
 
 - one asset pointing to `ar://hashofmonkeyjpeg`
-- one asset pointing to `ipfs://ipfs/QmHashofmonkeyjpeg`
+- one asset pointing to `ipfs://QmHashofmonkeyjpeg`
 - one asset pointing to `sia://hashofmonkeyjpeg`
 
 Once added to the NFT, we now have four identical sets of metadata linked on 4 different protocols:
