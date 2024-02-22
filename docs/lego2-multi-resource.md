@@ -74,8 +74,4 @@ ahead of time, or it can be made on-demand as a new asset is proposed.
 The implementations below lead directly to code. For examples of how to utilize them to mint your
 own NFTs, please refer to the sidebar section for each implementation subtype.
 
-- [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/entities/nft.md#resources-and-resource)
 - [EVM: EIP 5773](https://eips.ethereum.org/EIPS/eip-5773)
-  - In production examples:
-    - [NCVerse](https://neoncrisis.io/my-collection/ncverse)
-- [Pallets](https://github.com/rmrk-team/rmrk-substrate/blob/main/pallets/rmrk-core/src/lib.rs)

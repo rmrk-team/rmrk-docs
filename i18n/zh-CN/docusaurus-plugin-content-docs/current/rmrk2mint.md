@@ -8,8 +8,7 @@ In this guide, we will take a look at how to programmatically mint multiple nont
 
 You are free to test this locally on an example chain, but Singular currently lacks the ability to connect to locally running chains. Once you have tested that the script works well, feel free to use the following testing environment:
 
-- UI: https://singular-rmrk2-dev.vercel.app/
-- Node: ws://staging.node.rmrk.app
+- UI: https://dev.singular.app/
 
 The UI will have a Faucet button for your convenience which you can hit to get 1 KSM sent to your test account. 
 

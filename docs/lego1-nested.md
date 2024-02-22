@@ -29,6 +29,4 @@ The concept of nested NFTs is further expanded through the idea of
 
 The implementations below lead directly to code. For examples of how to utilize them to mint your own NFTs, please refer to the sidebar section for each implementation subtype.
 
-- [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/entities/nft.md#children)
-- [EVM: EIP 6059](https://eips.ethereum.org/EIPS/eip-6059) - more documentation [here](https://evm.rmrk.app/rmrk-legos-examples/nestable).
-- [Pallets](https://github.com/rmrk-team/rmrk-substrate/blob/main/pallets/rmrk-core/src/lib.rs)
+- [EVM: EIP 6059](https://eips.ethereum.org/EIPS/eip-6059) - more documentation [here](https://evm.rmrk.app/implementations#nestable).

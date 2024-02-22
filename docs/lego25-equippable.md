@@ -284,6 +284,4 @@ For a breakdown, please see the video below.
 The implementations below lead directly to code. For examples of how to utilize them to mint your
 own NFTs, please refer to the sidebar section for each implementation subtype.
 
-- [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/interactions/equip.md)
 - [EVM: EIP 6059](https://eips.ethereum.org/EIPS/eip-6059)
-- [Pallets](https://github.com/rmrk-team/rmrk-substrate/tree/main/pallets/rmrk-equip)

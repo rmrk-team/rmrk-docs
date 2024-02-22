@@ -15,10 +15,6 @@ RMRK NFT 2.0 概念分为RMRK乐高积木和RMRK概念。乐高积木是构成�
   - 使NFT能够装备已持有的NFT以获得额外效用或改变其外观，也称为可组合 NFT
 - [链上表情反应](/lego3-emote)
   - 在任何 NFT 上发送和渲染接收到的表情（表情符号反应）的社交机制
-- [条件渲染](/lego4-conditional-rendering)
-  - 使NFT能够根据某些链上或者链下的值产生不同的客户端输出
-- [NFT作为DAO治理](/lego5-dao)
-  - 使NFT能够被碎片化并进行社区治理
 
 ## RMRK概念
 

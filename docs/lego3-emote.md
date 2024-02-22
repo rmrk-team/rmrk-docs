@@ -14,15 +14,11 @@ Currently, all reactions apply equally and are rendered by all implementations, 
 
 During a transfer, all reactions travel with an NFT. The reactions are not NFTs themselves, just flair added to an existing data record - the NFT.
 
-Emotes are a key part of [conditional rendering](/lego4-conditional-rendering).
-
 You can try it using our [Emotes.app](https://emotes.app/).
 
 ## Implementations
 
 The implementations below lead directly to code. For examples of how to utilize them to mint your own NFTs, please refer to the sidebar section for each implementation subtype.
 
-- [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/interactions/emote.md)
-  - Implemented in production on [Singular](https://singular.app)
-- EVM (research phase)
-- Pallets (research phase)
+- [EVM](https://evm.rmrk.app/emotable)
+  - Implemented in production on [Emotes.app](https://emotes.app)

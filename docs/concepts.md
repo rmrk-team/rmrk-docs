@@ -16,11 +16,6 @@ make up complex _use cases_ and enable certain _concepts_.
     appearance, also known as composable NFTs
 - [On-chain emotes](/lego3-emote)
   - The social mechanic of sending and rendering received emotes (emoji reactions) on any NFT
-- [Conditional Rendering](/lego4-conditional-rendering)
-  - The ability for an NFT to have different client-side outputs depending on some on-chain or
-    off-chain values
-- [NFTs as DAOs](/lego5-dao)
-  - The ability for NFTs to be fractionalized and community governed
 
 ## RMRK Concepts
 

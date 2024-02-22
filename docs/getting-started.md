@@ -19,11 +19,7 @@ together allows a user to create NFT systems of arbitrary complexity.
 
 If you want to dive right in, see the [concepts](/concepts) page.
 
-Broadly, the RMRK standard exists in three formats:
-
-- [Kusama implementation](/rmrk2)
 - [EVM implementation](/evm)
-- [FRAME Pallet implementation](/pallets)
 
 One of the best short introductions into RMRK is the following video:
 
@@ -52,8 +48,7 @@ knowledgebase is set up [here](https://coda.io/@rmrk/faq), and
 our [YouTube channel](https://url.rmrk.app/yt) has various tutorials on how to use the app.
 
 As a developer who wants to build their own wallet or UI for RMRK, you probably want to
-[learn the concepts first](/concepts), then refer to the individual tech stack you are interested in
-(Kusama, EVM, pallets (Rust)).
+[learn the concepts first](/concepts), then refer to the EVM implementation.
 
 ## RMRK-based projects
 

@@ -96,6 +96,4 @@ NFT的所有者不能将新资源添加到他们自己的NFT中。这可以防�
 
 下面的实现将直接指向代码。有关如何使用它们来铸造您自己的 NFT 的示例，请参阅侧边栏中每个子类型实现的章节。
 
-- [Kusama](https://github.com/rmrk-team/rmrk-spec/blob/master/standards/rmrk2.0.0/entities/nft.md#resources-and-resource)
 - [EVM](https://github.com/rmrk-team/evm/tree/eip/contracts/MultiResource_EIP)
-- [Pallets](https://github.com/rmrk-team/rmrk-substrate/blob/main/pallets/rmrk-core/src/lib.rs)

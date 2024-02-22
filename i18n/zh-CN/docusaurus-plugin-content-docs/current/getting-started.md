@@ -16,9 +16,7 @@ RMRK是一套NFT标准，它由几个“NFT 2.0乐高”原语组成。把这些
 
 RMRK标准以3种形式存在：
 
-- [Kusama 实现](/rmrk2)
 - [EVM 实现](/evm)
-- [FRAME Pallet 实现](/pallets)
 
 RMRK 的最佳简短介绍之一是以下视频：
 
